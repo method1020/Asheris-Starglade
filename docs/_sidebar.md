@@ -1,6 +1,9 @@
 <!-- docs/_sidebar.md -->
 
-* [Home](/)
-* [People](/People/index.md)
-    * [Asheris Starglade](/People/Asheris_Starglade.md)
-* [Places](/Places/index.md)
+- [**Home**](./README.md)
+  
+- [**Adventure**](./adventure.md)
+
+- [Chapter 1 - Willdale and The Cloakwood](#)
+  
+- [**People**](#)

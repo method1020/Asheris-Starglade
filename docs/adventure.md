@@ -1,4 +1,3 @@
-
 # Adventure 
 
 ## Chapter 1 - Willdale and The Cloakwood

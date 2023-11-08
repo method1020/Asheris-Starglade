@@ -12,6 +12,7 @@
   <!-- Custom Styles -->
   <style>
     :root {
+    --theme-color: rgb(9, 196, 9);
     }
   </style>
 </head>
@@ -19,12 +20,16 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
+      auto2top: true,
+      autoHeader: true,
       coverpage: true,
       loadSidebar: true,
+      maxLevel: 2,
       name: 'The Journal of Asheris Starglade',
       nativeEmoji: false,
       notFoundPage: true,
-      relativePath: true,
+      // relativePath: true,
+      paths: auto,
       repo: 'method1020/Asheris-Starglade',
       themeable: {
         readyTransition: true,
