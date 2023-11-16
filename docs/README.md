@@ -457,11 +457,11 @@ Amidst our fascination and mild bickering over the remaining items, we took our 
 
 *Play Date: July 25, 2023*
 
-## Headed Home
+### Headed Home
 
 >*Looking back, my time spent in Haling Cove floods my mind with vibrant recollections. The idyllic bay city, draped in a harmony of nature and civilization, always felt like a second home. The Sylvan Sentinels, my family, maintained a vigil over the encompassing forest, ensuring the city's tranquility. As a child, I would often lose myself in the labyrinth of marketplaces, drawn to the symphony of bustling life, the scent of spices, and the sight of numerous wares from far-off lands. I remember the wizards, Belvin and Roberto, their stories of magic and wonder resonating deep within me. Despite not being a part of the Sentinels myself, Haling Cove still shaped me, its influence running as deep as the roots of the forest that guards it.*
 
-#### Centaurs
+### Centaurs
 
 We resolved to enter Haling Cove under the cover of night, a decision accompanied by a shroud of uncertainty. Our journey began on a well-trodden path between [Willdale](#willdale) and [Haling Cove](#haling-cove), under the vast, twinkling canvas of the evening sky.
 
@@ -473,7 +473,7 @@ Providing us with invaluable information, they confirmed the route to Haling Cov
 
 Deciding to err on the side of caution, we trailed the centaurs from a safe distance until the silhouette of Haling Cove began to take shape through the darkened trees. 
 
-#### Familiar Woods
+### Familiar Woods
 
 We arrived at the outskirts of Haling Cove as the sun began to surrender to the encroaching darkness. Our path led us to a somber clearing that stirred a chilling memory from my childhood. I found myself drawn to it, my heart sinking as the realization of what lay beneath the surface dawned on me. 
 
@@ -485,7 +485,7 @@ Peering into the gathering dusk, I sought signs of the [Sylvan Sentinels](#sylva
 
 To the left lay another path, one that diverged towards an old mining camp. The choice ahead of us was clear - venture into the heart of Haling Cove or explore the forgotten remnants of the mining camp. 
 
-#### Short Rest in the Abandoned Mining Camp
+### Short Rest in the Abandoned Mining Camp
 
 Having decided to rest for the night, we found a suitable spot in an abandoned camp close by. While we settled, [Lucy](#lucy) took it upon herself to scout the area, perusing the remnants of the camp's past life. She returned with an assortment of discarded objects - a pair of antlers, some skins - tangible traces of those who had once inhabited these tents.
 
