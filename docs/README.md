@@ -562,8 +562,6 @@ My home clan. My family were all part of the Sylvan Sentinels. Watching over the
 
 The Feywild, also known as the Plane of Faerie or simply Faeria, is an "echo" of the [Prime Material Plane](#prime-material-plane) suffused with potent magic, and unrestrained emotions. It is the place from which fey originated, and where the first elves arrived in Faerun.
 
-<center><img src="_images/feywild.webp" width="75%"></center>
-
 ### Prime Material Plane
 
 The Material Plane, aka. Prime Material Plane, is the central plane of existence for Ash and the adventurers.
@@ -571,8 +569,6 @@ The Material Plane, aka. Prime Material Plane, is the central plane of existence
 ### Shadowfell
 
 The Shadowfell, also known as the Plane of Shadow, is one of hte planes of existence in various cosmological models. It exists as a counterpart to the [Feywild](#feywild), in the sense that is is a reflection, or "echo", of the [Prime Material Plane](#prime-material-plane). It is a bleak, desolate place of decay and death.
-
-<center><img src="_images/shadowfell.webp" width="75%"></center>
 
 ---
 
