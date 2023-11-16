@@ -1,9 +1,5 @@
 <!-- docs/_sidebar.md -->
 
-- [**Home**](./README.md)
+- [**Adventure**](./README.md)
   
-- [**Adventure**](./adventure.md)
-
-- [Chapter 1 - Willdale and The Cloakwood](#)
-  
-- [**People**](#)
+- [**People**](/docs/references/people.md)
