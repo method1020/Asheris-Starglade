@@ -495,6 +495,100 @@ To our north, a dormant mine sprawled out, its entrance yawning open like a mout
 
 As we hunkered down for the night, the thought of what the new dawn would bring hung heavily in the air.
 
+### Haling Cliffs
+
+After a brief respite, our party decided to push on towards the town. We chose to stick to the cover of the woods for our approach, all except [Aleric](#aleric-mysticmind-stoneweaver) who preferred to follow the road. [D3PUTY](#d3puty) and I successfully scaled the cliff-side near the mine's opening, though [Kuran](#kuran) and [Lucy](#lucy) weren't as fortunate, their attempts ending in a tumble. As [Aleric](#aleric-mysticmind-stoneweaver) set off on his own, he employed [Lucy](#lucy)'s drift orb to light his way, prompting [Lucy](#lucy) to chase after him and join him on the road.
+
+Meanwhile, I tied a rope around [D3PUTY](#d3puty) and helped [Kuran](#kuran) up the cliff. Once reunited, we pressed on, under the cloak of the woods. [Aleric](#aleric-mysticmind-stoneweaver), now accompanied by [Lucy](#lucy), continued along the road, peering into the darkness of the forest but seeing little.
+
+While moving through the heavy woods, [Kuran](#kuran) managed to discern the outline of a heavily overgrown guard tower in the forest. The tower, nearly consumed by creeping vines and interlacing branches, appeared to have several rooms formed within and around it, their windows glowing faintly with light.
+
+<center><img src="_images/sylvan-tower.webp" width="75%">
+<figcaption><b>Sylvan Tower</b></figcaption>
+</center>
+
+Recognizing this as an old Sylvan sentinel tower, I approached cautiously, finding evidence of Brownie inhabitants. Choosing to introduce ourselves as friends of [Fudh](#fudh) and [Goim](#goim) (an unabashed falsehood), we managed to gain a skeptical audience with the Brownie woman who answered the door.
+
+In exchange for a modest offering of gold, we were served small cups of frothy liquid by a pair of Brownies, and our hostess stoked the fire in a welcoming gesture, throwing a burning log into the fireplace.
+
+### Strangers in Haling Cove
+
+As dusk cloaks the surrounding in a dim veil, [Aleric](#aleric-mysticmind-stoneweaver) and [Lucy](#lucy) part ways with us, opting for the defined trail leading to the town instead of scaling the cliffs with the rest of us. Aleric, seemingly engrossed in his own soliloquy, doesn’t notice when Lucy, with her knack for stealth, dissipates into the shadows behind him. He merely shrugs and continues his self-absorbed discourse.
+
+Upon nearing the town, the sounds of his monologue are intersected by a voice echoing through the nightly stillness, originating from the outskirts of the town. The silhouette of a woman materializes, a hand on her hilt, her voice a blend of caution and intrigue. She is vigilant, questioning Aleric’s lone nocturnal roam. Aleric, weaving a tapestry of partial truths, tries to sway her suspicions but the strands of his story don’t interlace convincingly. He mentions Lucy’s sudden departure, but the woman’s eyes, bathed in skepticism, probe deeper. She is resolute, calling his bluff yet again. Eventually, Aleric peels off layers of deception, revealing partial truths about our party, careful not to divulge the core of our venture. The tense grip around her hilt loosens, a semblance of trust dawning in her demeanor. She introduces herself as Corrine, the sheriff of the town, whose authority seems to be wavering in these times. Corrine, a human appearing in her mid-30s, bears a roughened visage with a mohawk and an eye patch cloaking her right eye. Despite her badge and rugged appearance, she doesn’t seem fully armored.
+
+The scene transitions back to [Ash](#ash), [D3PUTY](#d3puty), and [Kuran](#kuran). Our inquiries about Belvin and Roberto find echoes in the Brownies’ tales. It appears they might have crossed paths with these individuals. However, the Brownies admit to avoiding the town, preferring the unseen paths when necessity drives them there. We leave the Brownies, our pockets lighter but our hearts warmed by their hospitality, and make our way to the town, hoping to reunite with Aleric and Lucy. 
+
+Ash’s memory paints images of an inn/pub nestled amongst the downtown shops, a probable refuge for our separated companions. Our paths converge again in the town, the familiar faces of our comrades blending with the tapestry of the inn’s patrons—a handful of humans, a dwarf, and a half-elf, immersed in their own worlds. Our requests for rooms are met with nods from the barkeep, and we settle in, our minds a whirlpool of thoughts and plans.
+
+## Chapter 6 - The Nightwatch
+
+*Play Date: August 1, 2023*
+
+### The Inn, Shadows of Disfavor 
+
+The warmth of the Honeywell Tavern welcomed us. [Matilda](#matilda): was busy behind the counter, skillfully pouring mugs of Honeywell mead and arranging plates of the most delectable dishes. I've heard stories of their famous honeyed pear tart, and it did not disappoint.
+
+While my palate indulged in rich flavors, [Aleric](#aleric-mysticmind-stoneweaver): seemed magnetically drawn to the fiery essence of hot spices, with a peculiar inclination for fried seaweed crisps. Matilda: was all too happy to cater to this adventurous craving.
+
+In a lull, [Aleric](#aleric-mysticmind-stoneweaver): engaged the locals, unraveling stories and legends. My own attention was caught by a bulletin board. Among the various postings, a wanted poster with an unrecognizable centaur-like figure piqued my interest. What truly caught my eye, however, was the dominating Night Watch recruitment note, so strategically placed that it obscured an older notice about the sheriff.
+
+As I pieced together the snippets of town news, [Aleric](#aleric-mysticmind-stoneweaver) beckoned me over, rambling something about his insatiable thirst for spice. I decided to gift (or possibly a test) of one of my lesser spicy shoulder sprouts. The little thing sent him crashing to the floor! Clearly, we had underestimated its potency. *The [Pyroshroom Blazehole](#pyroshroom-blazecap) is not to be trifled with.*
+
+In the midst of the commotion, Aleric: had gained some information about the [Nightwatch](#the-nightwatch). Pointed in the direction of two imposing figures, one particularly bearded, he approached with that characteristic 'non-threatening old man' demeanor. Their interaction was... memorable. "Magic folk don't make good guards," the bearded one mused aloud. Wanting to make a point, a quick thaumaturgy spell from me didn't go unnoticed, and instead of being impressed, the men - from the Nightwatch, it turns out - were quite irritated. Before we knew it, we were summoned to meet with the Nightwatch.
+:
+Matilda: later revealed that these men were [Commander Roy Medeza](#commander-roy-medeza) and [Terry Thrampton](#terry-thrampton). The name Thrampton... it jogged my memory. The Thramptons were integral to Haling Cove's history. I remembered tales of Peter Thrampton's disappearance, intertwined with matrimonial alliances and familial legacies. And, as I pondered, I recalled the somber echoes of the Quiet Year, a significant event from some 20-25 years ago. It was during my time here, and its shadow still lingers in the town's psyche.
+
+### A Night to NOT Remember
+
+The late-night shroud of Haling Cove's docks seemed like the perfect cloak for my quest for information. Under the cover of darkness, the docks whispered with the secrets of the sea, secrets I hoped to uncover. However, the night had other, less favorable plans for me.
+
+Just as the moon reached its zenith, casting eerie shadows over the creaking docks, the sound of heavy, methodical steps shattered the nocturnal peace. The Nightwatch, ever vigilant, emerged like specters from the darkness. My attempts to dissolve into the night's embrace were futile against their watchful eyes.
+
+Questions came like arrows in the night, sharp and unyielding. My words, carefully chosen, seemed to dissipate into the cold air, unheard, unbelieved. It didn't take long before I found myself ensnared, a helpless quarry in their determined grasp.
+
+The journey from the docks to the confinements of the Nightwatch jail blurred into a procession of shadows and dim lanterns. Here, in this cell, with the first light of dawn creeping through the small, barred window, I record these events. The walls around me are steeped in the silence of the early hours, a silence that bears the weight of uncertainty and unease.
+
+For now, patience must be my ally. 
+
+## Chapter 7 - The Rift
+
+*Play Date: August 8, 2023*
+
+### Recovering Ash
+
+This morning, a palpable sense of unease hung over us as the majority of the adventurers awoke to find me missing. My absence was like a void, a silent alarm that something was amiss. [D3PUTY](#d3puty) descended the stairs to find [Matilda](#matilda) and another man behind the counter. Matilda suspected the [Nightwatch](#the-nightwatch) had taken Ash.
+
+[D3PUTY](#d3puty), [Kuran](#kuran), and [Aleric](#aleric-mysticmind-stoneweaver) promptly decided to venture to the docks in search of Ash. The fishmonger shops were closed, but men were already working the docks in the early light. D3PUTY scoured the area for signs of Ash, eventually discovering traces of a struggle and drag marks leading to a building adorned with the Nightwatch insignia.
+
+Kuran stealthily circled the building, peering through a window. Inside, he could see three officers and a cell in the corner — Ash was inside. Using a magic Sea Shell, Ash explained his ordeal: he was ambushed by the Nightwatch near the docks, bagged, dragged, and incarcerated.
+
+D3PUTY and Aleric entered the building while Kuran remained outside, scouting for alternate entries. Inside, Aleric recognized [Commander Medeza](#commander-roy-medeza), but D3PUTY didn't recognize the other two officers. When Medeza informed us we were free to go, D3PUTY played along, fabricating a story about our historical mission in town.
+
+A man with the top hat, dressed in tattered finery, scrutinized D3PUTY and questioned Aleric about his origins. Aleric's quip about mistaking D3PUTY for a trash can only added to the tension. The conversation shifted to a trader named Jerry and a stolen cart, leading to more awkward exchanges and fabricated stories from our side.
+
+Ash, still in the cell, tried to contact Kuran but only received a garbled response. Aleric, probing Medeza about the town's safety, learned of a 'gateway to hell' near the beach, a place spawning creatures that the Nightwatch's wall now keeps at bay.
+
+With a glance between Aleric and D3PUTY, it was clear we had gathered all the information we needed. The Nightwatch didn't hinder our departure, allowing us to leave without further confrontation. As we left, the weight of the morning's revelations pressed heavily upon us, the town's hidden dangers and Ash's ordeal painting a troubling picture of what lay ahead.
+
+### Outside the Walls
+
+Outside the Nightwatch headquarters, the morning's revelations still churned in my mind, but I felt a renewed determination to glean more information from the docks. Nearing the dockmaster's station, I noticed a man, a figure marked by life at sea – one hand missing, his face adorned with smelly white stubble, and a chunk of cigar wedged firmly between his lips. His grayish-blue sweater seemed to envelop him like a second skin. Surprisingly, he offered us a job as dockhands around noon.
+
+As we walked towards the beach, a well-kept residence caught my eye. The Thrampton family estate, unmistakable with its lush greenery and whitewashed walls, emanated sounds of merriment and the fragrance of herbs. A stark reminder of the town's intricate history.
+
+Reaching the beach, we were confronted by a mesmerizing anomaly – a shimmering, iridescent crack in reality, a gateway to hell as described by Commander Medeza. It quivered, pulsating with life, casting prismatic colors across the sand. This rift, sprawling some 20-30 feet in length and 5 feet across at its widest, seemed to defy the very essence of our world.
+
+I was about to test its reality with a thrown rock, but Aleric's caution stayed my hand. We observed a constructed wall across the beach entrance, mirroring the height of the surrounding cliffs – a barrier against unknown dangers.
+
+[Aleric](#aleric-mysticmind-stoneweaver)'s uneasy feeling, his sense of being watched, was palpable. He whispered a foreboding warning – we were not alone. His instincts hinted at unseen watchers, possibly from the sea or even the rift itself.
+
+Drawn to the water's edge, my curiosity piqued by the unknown depths, I discovered a spear, partially concealed beneath the waves. It was a broken weapon, seemingly more suited for combat than fishing, possibly belonging to the rumored coastal pygmies.
+
+This discovery sent a chill down my spine, as I recalled tales of [Belvin](#belvin), who met his end by similar tiny spears. In a moment of distraction, I found a cool rock and, driven by an inexplicable urge, aimed to throw it into the rift. Suddenly, a dart whizzed past, embedding itself into the sand. Turning sharply, I caught sight of someone's head just above the water, a blowgun in hand.
+
+The realization struck – the danger wasn't just in the legends or the unseen depths of the rift. It was real, tangible, and alarmingly close.
+
 ---
 
 # People and Places
@@ -519,11 +613,27 @@ As we hunkered down for the night, the thought of what the new dawn would bring 
 
 ### Belvin
 
+### Sherif Corrine Forton
+
+Corrine Forton is the sherif of Haling Cove. She seems to have some sort of contempt for the [Nightwatch](#the-nightwatch)
+
 ### Gyrewalkers
 
 A nomadic group known for their advanced technology. They once lived in a tower in Haling Cove.
 
+### Matilda
+
+The propriator of Honeywell Tavern in Haling Cove. Does what needs doing, doesn't ask too many questions.
+
+### The Nightwatch
+
+Seems to be a private police force in town.
+
 ### Roberto
+
+### Commander Roy Medeza
+
+Leader of the [Nightwatch](#the-nightwatch).
 
 ### The Sæsha'sol
 
@@ -536,6 +646,10 @@ Clan of bioluminescent centaurs. Generally friendly. Our party approached some w
 ### Sylvan Sentinels
 
 My home clan. My family were all part of the Sylvan Sentinels. Watching over the woods around Haling Cove. I never joined their ranks.
+
+### Terry Thrampton
+
+Friend of [Commander Roy Medeza](#commander-roy-medeza).
 
 ---
 
