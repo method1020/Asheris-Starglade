@@ -42,14 +42,65 @@ Despite not joining the ranks of the [Sylvan Sentinels](#sylvan-sentinels), I re
 |10 (+0)|12 (+1)|12 (+1)|14 (+2)|15 (+2)|13 (+1)|
 
 ## Adventurers
+<div id="container">
 
 ### Aleric Mysticmind Stoneweaver
 
+<div id="first" style="width:30%; float:left; padding-right:20px;">
+<center>
+<img src="_images/aleric.jpg" width="100%">
+</center></div>
+<div id="second" style="width:70%; float:left;">
+An eccentric and free-spirited Human wizard, is a seasoned practitioner of the arcane arts. With flowing silver hair and a carefree demeanor, he embodies the essence of an old hippy. Rejecting conventional wizardry, Aleric follows an intuitive and unconventional path, weaving spells with grace and channeling the energy of the universe.
+
+**Race:** Human, **Class:** Wizard
+
+</div><div id="clear" style="clear: both;"></div></div>
+
+<div id="container">
+
 ### D3PUTY
 
-### Kuran
+<div id="first" style="width:30%; float:left; padding-right:20px;">
+<center>
+<img src="_images/D3PUTY.jpg" width="100%">
+</center></div>
+<div id="second" style="width:70%; float:left; ">
+A law-abiding Warforged ranger, stands as a testament to resilience and determination. Discovered in an abandoned box on the side of the road, his origins remain a mystery.
+
+**Race:** Warforged, **Class:** Ranger
+
+</div><div id="clear" style="clear: both;"></div></div>
+
+<div id="container">
+
+### Kuran Ardoise
+
+<div id="first" style="width:30%; float:left; padding-right:20px;">
+<center>
+<img src="_images/kuran.png" width="100%">
+</center></div>
+<div id="second" style="width:70%; float:left; ">
+A whirlwind of mischief and unpredictability. With a sly grin and a mischievous glint in his eyes, he thrives in the chaos of life. Quick-witted and nimble-fingered, he excels at getting into and out of trouble with equal ease.
+
+**Race:** Human, **Class:** Rogue
+
+</div><div id="clear" style="clear: both;"></div></div>
+
+<div id="container">
 
 ### Lucy
+
+<div id="first" style="width:30%; float:left; padding-right:20px;">
+<center>
+<img src="_images/lucy.png" width="100%">
+</center></div>
+<div id="second" style="width:70%; float:left; ">
+She walks a peculiar path as a devotee of the fiendish powers. With an ethereal grace and a mischievous gleam in her eyes, she carries an air of unpredictability.
+
+**Race:** Elf, **Class:** Warlock
+
+</div><div id="clear" style="clear: both;"></div></div>
 
 ---
 
@@ -589,6 +640,51 @@ This discovery sent a chill down my spine, as I recalled tales of [Belvin](#belv
 
 The realization struck – the danger wasn't just in the legends or the unseen depths of the rift. It was real, tangible, and alarmingly close.
 
+## Chapter 8 - The Chuul
+
+*Play Date: August 18, 2023*
+
+### Sea Gloom Appear
+
+The shores of [Haling Cove](#haling-cove) revealed their hidden and dangerous inhabitants – the [Sea Gloom](#the-sæshasol). Emerging from the water with their bluish skin and shadowy markings, they blended seamlessly with the sea, making them nearly invisible until they were almost upon us.
+
+Suddenly, a flurry of darts hissed through the air. One narrowly missed [Aleric](#aleric-mysticmind-stoneweaver), another was aimed at [D3PUTY](#d3puty). D3PUTY recognized these assailants as the Sæsha'sol, or Sea Gloom, known to the townsfolk as "Pygmies." These creatures, residing on an island south of the city, have always been shrouded in hostile mystery, historically known for their attacks on townsfolk.
+
+In the heat of the moment, D3PUTY skillfully cast his net, ensnaring one of the Sea Gloom. Aleric responded with a spell of Hideous Laughter, briefly disarming the attackers with uncontrollable mirth. The Sea Gloom, however, quickly regained their composure and lunged at D3PUTY with their spears, only to be thwarted by his sturdy armor.
+
+[Kuran](#kuran) leaped into action, rapier in hand, slicing into one of the Sea Gloom with precision. A quick follow-up with his dagger sent the creature slumping lifelessly into the water. Meanwhile, [Lucy](#lucy) unleashed an Eldritch Blast, obliterating another assailant. From the corner of her eye, she noticed something unsettling in the water – fish chum and a trail of bubbles rising to the surface.
+
+In response, I conjured a guiding bolt, striking another Sea Gloom squarely, causing it to fall into the churning waters. Simultaneously, I cast a shield of faith around Kuran, enveloping him in a protective light.
+
+But our troubles were far from over. One of the Sea Gloom managed to hit me with a short bow, the arrow piercing through my clothing and drawing blood. As it attempted to flee, D3PUTY swung his sword in a valiant effort to stop it but missed. The creature then took out a long shell, blowing into it to produce a piercing whistle.
+
+Reacting swiftly, D3PUTY pulled Kuran and Aleric out of the water. The Sea Gloom tried to strike again, but D3PUTY's counterattack was swift and fatal, ending the creature's threat as it slumped into the water. Aleric, utilizing his spell once more, incapacitated another Sea Gloom, leaving it thrashing helplessly in the waves.
+
+The ensnared Sea Gloom, still trapped in D3PUTY's net, began to chant "chuul, chuul, chuul" – a word unfamiliar yet filled with ominous portent. The situation was escalating, the waters around us boiling with unseen dangers. The encounter with the Sea Gloom was far from a mere skirmish – it was a harbinger of deeper, darker conflicts lurking beneath the waves of Haling Cove.
+
+### From the Depths
+
+Chaos erupted on the shores as a monstrous claw, resembling that of a colossal crab or lobster, broke through the water's surface. [Aleric](#aleric-mysticmind-stoneweaver), with a quick arcana check, identified the creature as a [Chuul](#chuul) - a gigantic, mythical crustacean known for its ferocity.
+
+[Kuran](#kuran), quick to react, loosed an arrow at the ensnared Sea Gloom, but his shot veered off target. Lucy, with unwavering focus, conjured another Eldritch Blast, aiming it squarely at the Chuul's claw. In response to the escalating threat, I hastily assembled a fairy ring of interwoven sticks, summoning a dome of protective twilight sanctuary around us.
+
+<center><img src="_images/ring-of-sticks.webp" width="75%">
+<figcaption><b>Conjuring the Twighlight Sanctuary</b></figcaption>
+</center>
+
+The Chuul, undeterred, advanced with terrifying ease through the water towards Aleric. With a swift and brutal assault, it struck him with its massive claws, leaving him unconscious and submerged in the water. In a desperate attempt to intervene, [D3PUTY](#d3puty) pointed his bow at the ensnared Sea Gloom, demanding it to call off the Chuul. The Sea Gloom, defiant and unyielding, egged on the Chuul with chants. D3PUTY, unfazed, aimed for the Chuul's eye and let loose an arrow, striking true.
+
+[Kuran](#kuran), undeterred by the creature's formidable armor, launched an attack but failed to inflict any damage. In a frantic effort to assist Aleric, he accidentally pushed Aleric's face into the water, exacerbating the situation. Meanwhile, the previously ensnared Sea Gloom broke free from the net, launching a fireball at D3PUTY that crashed onto the beach, failing to hit its target.
+
+[Lucy](#lucy), remembering her arsenal of magical items, swam towards the Chuul, clumsily dog-paddling. I rushed to Aleric's aid, placing a white and indigo mushroom (an [Amanita Lifeshroud](#amanita-lifeshroud)) in his mouth to stabilize him. D3PUTY continued to focus on the Chuul, searching for vulnerabilities in its armor.
+
+As a dense fog began to emanate from the hands of the tide-caller Sea Gloom, wrapping the battlefield in a cold mist, Kuran donned the manta cloak and submerged himself in the waters. Lucy, wielding the driftwood trident, successfully dominated the Chuul, commanding it to attack the tide-caller.
+
+I attempted to distract the Chuul with a mating call, but it seemed to have no effect. The Chuul, under Lucy's command, brutally attacked the tide-caller, slamming it into the seafloor.
+
+Our skirmish on the beach drew attention from the stone towers along the wall. A guard, missing a hand and sporting a claw in its place, waved down at us from his vantage point. It seemed our encounter had not gone unnoticed, and the eyes of [Haling Cove](#haling-cove) were now firmly upon us.
+
+
 ---
 
 # People and Places
@@ -612,6 +708,12 @@ The realization struck – the danger wasn't just in the legends or the unseen d
 ## Haling Cove
 
 ### Belvin
+
+### Chuul
+
+Large lobster-like aberation with a hatred for surface-dwelling humanoids. The many tentacles that surround their mouth are capable of causing paralysis with a single touch.
+
+A horrible mix of crustacean, insect, and serpent.
 
 ### Sherif Corrine Forton
 
@@ -691,6 +793,41 @@ The Shadowfell, also known as the Plane of Shadow, is one of hte planes of exist
 I have written this guide to help provide some insight to my small collection of mushrooms I carefully maintain on my cloak.
 
 ---
+
+## Amanita Lifeshroud
+
+<div id="first" style="width:30%; float:left; padding-right:20px;">
+<center>
+</br>
+<img src="_images/mushroom-amanita-lifeshroud.webp" width="100%">
+</center></div>
+<div id="second" style="width:70%; float:left;">
+
+**Habitat:** Enchanted Valleys, Near Sacred Springs
+
+**Identification:** The Amanita Lifeshroud is a captivating and rare mushroom, typically found in mystical and serene environments such as enchanted valleys or near sacred springs. Its appearance is marked by a striking contrast of white and deep indigo hues. The cap is predominantly white with swirling patterns of indigo, resembling a celestial map. The stem is robust and a gradient of purple, often shimmering with a subtle, otherworldly glow.
+
+**Effects and Uses:** The Amanita Lifeshroud is revered for its extraordinary life-preserving properties. This mushroom harbors a potent magical essence capable of stabilizing those at death's door. Consuming the Amanita Lifeshroud, or applying a concoction made from it, can halt the process of dying, giving the afflicted individual a fighting chance to recover or receive further healing.
+
+The Amanita Lifeshroud is a crucial component in any adventurer's survival kit, it serves as a last resort to save fallen comrades during or after a deadly encounter.
+
+**Harvesting and Alchemical Use:** Gathering Amanita Lifeshroud requires a deep understanding of magical flora and a careful approach to preserve its potent energies. These mushrooms are scarce and often protected by the natural guardians of their habitats. They are highly sought after by alchemists and healers for their use in creating advanced healing potions and life-saving salves.
+
+* Encounter: Utilizing an Amanita Lifeshroud can immediately stabilize a character who is making death saving throws.
+* Harvesting: A successful Nature or Arcana check is necessary, reflecting the harvester's knowledge of the mushroom's botanical and magical properties.
+* Potion Crafting: The Amanita Lifeshroud can be a key ingredient in crafting potent healing potions or resurrection philters, requiring a successful Alchemy or Medicine check.
+
+**Folklore and Cultural Significance:** In many cultures, the Amanita Lifeshroud is often associated with deities or spirits of life, healing, and resurrection. It is depicted in various mythologies as a beacon of hope against the darkness of death. Clerics, druids, and healers may seek out this mushroom as part of their divine missions or healing practices.
+
+The presence of Amanita Lifeshrouds in an area is believed to be a sign of a profound connection to the vital energies of the earth. Their rarity and the life-saving properties they possess make them objects of reverence in many sacred rituals, often symbolizing the cycle of life, death, and rebirth. Their existence serves as a powerful reminder of the natural world's ability to transcend the boundaries between life and death.
+
+</div>
+<div id="clear" style="clear: both;"></div>
+</div>
+
+---
+
+
 
 <div id="container">
 
