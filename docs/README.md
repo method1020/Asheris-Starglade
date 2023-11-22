@@ -137,9 +137,9 @@ The situation escalated quickly, and before we could fully grasp the repercussio
 
 I was awoken in the middle of the night from my resting state. I heard a noise from the darkness ahead but couldn't quite place it. The rest of my adventurers appeared to be sleeping, having rushed from town the evening before. The ash's from the nights fire barely glowing. 
 
-Suddenly a sticky web pinned me to a tree, I couldn't move at all. I looked out into the darkness, even with my keen eyesight, I was unable to see what is trapping me, or who attacked us. While [D3PUTY](#d3puty) looks out into the distance I wake up [Kuran](#kuran). Neither of them are able to see the monster either. We awaken the rest of the team.
+Suddenly a sticky web pinned me to a tree, I couldn't move at all. I looked out into the darkness, even with my keen eyesight, I was unable to see what is trapping me, or who attacked us. While [D3PUTY](#d3puty) looks out into the distance I wake up [Kuran](#kuran-ardoise). Neither of them are able to see the monster either. We awaken the rest of the team.
 
-I think in an attempt to bring light to the darkness, [Kuran](#kuran) lights a bolt of cloth on fire. Illuminating the area around us, but the foe remained cloaked in darkness. [Aleric](#aleric-mysticmind-stoneweaver) attempted to scare the monster with his *Hideous Laughter* but was unable to conjure the spell in his sleepy mental fog.
+I think in an attempt to bring light to the darkness, [Kuran](#kuran-ardoise) lights a bolt of cloth on fire. Illuminating the area around us, but the foe remained cloaked in darkness. [Aleric](#aleric-mysticmind-stoneweaver) attempted to scare the monster with his *Hideous Laughter* but was unable to conjure the spell in his sleepy mental fog.
 
 I am eventually able to break free from the sticky web after [Lucy](#lucy) ignites the tree I am trapped against on fire. But not before the team is struck with booming thunder from the skies ([Aleric](#aleric-mysticmind-stoneweaver) really needs to wake up!)
 
@@ -175,9 +175,9 @@ We embarked on a path known to be tread by the Brownies in and through the [Cloa
 
 My mind drifted back to old stories and knowledge: the Brownies, typically solitary creatures, with no central leadership to speak of. They set up camps in various locations, drawn to the beauty of the world and the promise of ample sustenance. They often steer clear of humanoids, choosing to dwell in peace. Tales speak of Sylvans driven out of their towers - a disturbing anecdote of the times we live in. Their language is a mixture of Sylvan, Halfling, and at times, Common. 
 
-[Kuran](#kuran) attempted to get a better view of our surroundings by scaling a towering tree but was unable to spot anything significant.
+[Kuran](#kuran-ardois) attempted to get a better view of our surroundings by scaling a towering tree but was unable to spot anything significant.
 
-As the forest path narrowed, we made a strategic decision to split up - [D3PUTY](#d3puty) and [Aleric](#aleric-mysticmind-stoneweaver) ventured east, while [Kuran](#kuran) and I headed south. The path underfoot was well-trodden and quiet, the silence only punctuated by the sounds of wildlife in the distance.
+As the forest path narrowed, we made a strategic decision to split up - [D3PUTY](#d3puty) and [Aleric](#aleric-mysticmind-stoneweaver) ventured east, while [Kuran](#kuran-ardois) and I headed south. The path underfoot was well-trodden and quiet, the silence only punctuated by the sounds of wildlife in the distance.
 
 Eventually, those who headed east found themselves in a clearing, a vast opening in the otherwise dense woodland. I look forward to reuniting with them soon and sharing what we have discovered in our respective journeys.
 
@@ -187,19 +187,17 @@ Eventually, those who headed east found themselves in a clearing, a vast opening
 >
 > The group had found themselves in a serene setting—a small pond adjacent to a towering boulder. Kuran had taken the initiative to explore the area in search of signs of the elusive Brownies, while Aleric and D3PUTY observed with anticipation. The tranquil atmosphere and the air of mystery that surrounded the scene piqued his curiosity.
 
-As I stealthily made my way through the eastern forest, I skillfully maneuvered around the worn and disheveled camp in the distance. My goal was clear: reach the trail that led northward to meet up with [Aleric](#aleric-mysticmind-stoneweaver), [Kuran](#kuran), and [D3PUTY](#d3puty). I knew the importance of maintaining a safe distance from the tent, so I focused on staying hidden as I moved through the undergrowth.
+As I stealthily made my way through the eastern forest, I skillfully maneuvered around the worn and disheveled camp in the distance. My goal was clear: reach the trail that led northward to meet up with [Aleric](#aleric-mysticmind-stoneweaver), [Kuran](#kuran-ardoise), and [D3PUTY](#d3puty). I knew the importance of maintaining a safe distance from the tent, so I focused on staying hidden as I moved through the undergrowth.
 
 Every step I took was deliberate, ensuring I made no unnecessary noise that could give away my presence. The forest seemed to offer its guidance, revealing hidden paths that led me closer to my companions. I remained vigilant, scanning my surroundings for any signs of danger or potential obstacles.
 
-Navigating through the dense foliage, I followed the concealed trail with determination. I carefully evaded any traces of detection, my instincts guiding me towards the rendezvous point. Finally, I emerged from the forest, relieved to see the familiar faces of [Aleric](#aleric-mysticmind-stoneweaver), [Kuran](#kuran), and [D3PUTY](#d3puty) waiting for me.
+Navigating through the dense foliage, I followed the concealed trail with determination. I carefully evaded any traces of detection, my instincts guiding me towards the rendezvous point. Finally, I emerged from the forest, relieved to see the familiar faces of [Aleric](#aleric-mysticmind-stoneweaver), [Kuran](#kuran-ardoise), and [D3PUTY](#d3puty) waiting for me.
 
 With a sense of accomplishment, I explained my decision to bypass the worn and disheveled camp, focusing instead on our shared journey and the mysteries that awaited us. 
 
 ### Fudh and Goim
 
-We headed south towards the tent and [Kuran](#kuran) and I skillfully approached the worn and disheveled tent, our curiosity pushed us to investigate further. [Kuran](#kuran) quietly peeked inside, revealing a surprising scene of Brownies engrossed in sticks and dice games. Among them, two stood out—one with a brown hat and the other with a distinctive red hat.
-
-<center><img src="_images/fudhandgoim.webp" width="75%"></center>
+We headed south towards the tent and [Kuran](#kuran-ardoise) and I skillfully approached the worn and disheveled tent, our curiosity pushed us to investigate further. [Kuran](#kuran-ardoise) quietly peeked inside, revealing a surprising scene of Brownies engrossed in sticks and dice games. Among them, two stood out—one with a brown hat and the other with a distinctive red hat.
 
 To our astonishment, the Brownie with the red hat noticed Kuran's presence and eagerly divulged details about their camp. He mentioned that their leader, known as [Grum](#grum), was waiting for us. Intrigued, [Aleric](#aleric-mysticmind-stoneweaver) joined our conversation, observing that the Brownie with the red hat seemed a little peculiar, smirking and hinting at the mysterious nature of meeting Grum.
 
@@ -209,7 +207,7 @@ However, it was [the Brownie](#the-brownies) wearing the brown hat who seized th
 
 ### To the Camp
 
-As [Aleric](#aleric-mysticmind-stoneweaver) and [Kuran](#kuran) trailed the Brownies towards their camp, [D3PUTY](#d3puty) quietly followed Kuran's lead, while I stealthily sneaked alongside, remaining unnoticed by the rest of the party. Little did we know that [Grum](#grum), the leader of the Brownies, would turn out to be an unusually large and fat Boggle, a rare sight given their usual small stature.
+As [Aleric](#aleric-mysticmind-stoneweaver) and [Kuran](#kuran-ardoise) trailed the Brownies towards their camp, [D3PUTY](#d3puty) quietly followed Kuran's lead, while I stealthily sneaked alongside, remaining unnoticed by the rest of the party. Little did we know that [Grum](#grum), the leader of the Brownies, would turn out to be an unusually large and fat Boggle, a rare sight given their usual small stature.
 
 Seizing the opportunity, I crept up behind [Grum](#grum) and the Brownies in their camp, equipped with sleeping mushroom spores harvested from the mushrooms growing on my shoulders. With a swift application, I put three of the Brownies to sleep, leaving the remaining ones trembling in fear as they fled. The group, sensing an advantage, launched an attack on Grum.
 
@@ -219,9 +217,9 @@ I took the initiative and employed a necrotic mushroom, inflicting severe damage
 
 In the midst of the chaotic battle, [Aleric's](#aleric-mysticmind-stoneweaver) attempt to cast hideous laughter on [Grum](#grum) backfires, leaving him laughing uncontrollably. [Kuran's](#kuran) attack misses its mark, and [Grum](#grum), displaying an unexpected ability, becomes shiny and oily, reappearing on the other side of the field. [D3PUTY's](#d3puty) attempt with the longbow also fails, as does my own with the crossbow.
 
-Determined to subdue [Grum](#grum), [Kuran](#kuran) fiercely strikes him while he tries to escape. [Grum](#grum), displaying his teleportation ability, surprises us by suddenly appearing behind me. [Aleric](#aleric-mysticmind-stoneweaver), moving with surprising swiftness, pommels Grum with a dagger, rendering him unconscious.
+Determined to subdue [Grum](#grum), [Kuran](#kuran-ardoise) fiercely strikes him while he tries to escape. [Grum](#grum), displaying his teleportation ability, surprises us by suddenly appearing behind me. [Aleric](#aleric-mysticmind-stoneweaver), moving with surprising swiftness, pommels Grum with a dagger, rendering him unconscious.
 
-As I survey the remaining Brownies, [Kuran](#kuran) shouts, "Are you not amused?" After [Kuran's](#kuran) taunting words echo through the clearing, the remaining Brownies are visibly frightened. The unexpected display of power from our group and the defeat of their leader, Grum, have left them no choice but to scatter in all directions. Their tiny figures disappear into the foliage, escaping into the safety of the forest.
+As I survey the remaining Brownies, [Kuran](#kuran-ardoise) shouts, "Are you not amused?" After [Kuran's](#kuran) taunting words echo through the clearing, the remaining Brownies are visibly frightened. The unexpected display of power from our group and the defeat of their leader, Grum, have left them no choice but to scatter in all directions. Their tiny figures disappear into the foliage, escaping into the safety of the forest.
 
 As the dust settles, the once lively camp now lies in silence, only the rustling of leaves and the occasional hoot of an owl filling the air. We gather ourselves, ensuring that [Grum](#grum) is securely fastened to [D3PUTY's](#d3puty) back. Despite the intensity of the battle, a sense of relief washes over us. We've achieved our goal, but our journey is far from over.
 
@@ -251,7 +249,7 @@ As the hours stretch on, I remain ever-watchful, my senses attuned to the sounds
 
 We, as a group, had been preparing to depart from the camp when our path crossed with that of a unique creature, a Brownie named [Alarin](#alarin), donned in an eye-catching purple hat. She was returning from her ventures in the forest, her wary eyes telling stories untold.
 
-Her fear was tangible in the cool air, an emotion I aimed to assuage temporarily using the soporific spores of my magical shoulder mushrooms, their mystical properties sending her into a deep slumber. In her vulnerable state, [Kuran](#kuran) conducted an intrusive yet necessary search, a necessity that never ceases to unsettle me.
+Her fear was tangible in the cool air, an emotion I aimed to assuage temporarily using the soporific spores of my magical shoulder mushrooms, their mystical properties sending her into a deep slumber. In her vulnerable state, [Kuran](#kuran-ardoise) conducted an intrusive yet necessary search, a necessity that never ceases to unsettle me.
 
 Upon awakening, [Alarin](#alarin) was met with the calming demeanor of [Aleric](#aleric-mysticmind-stoneweaver), his soothing words breaking through her initial trepidation. In the midst of this, [Lucy](#lucy), seizing an opportunity with an impish grin, absconded with Alarin's purple hat.
 
@@ -265,7 +263,7 @@ We returned to the lumber camp in [Willdale](#willdale) and reunited with [Talia
 
 [Talia](#talia) took a keen interest in [Grum](#grum) and inspected him closely. I couldn't help but notice the oozing and deteriorating state of [Grum](#grum)'s arm, a result of the necrotic damage I had inflicted during our intense battle with him. [Talia](#talia)'s initial impulse was to shoot and kill [Grum](#grum), but [D3PUTY](#d3puty) intervened, preventing her from taking drastic action.
 
-In an unexpected turn of events, [Grum](#grum) suddenly blinked or teleported away while [Lucy](#lucy) tried to charm him for more information about his origin. [Kuran](#kuran) attempted to shoot him with his bow, but the arrow missed its mark.
+In an unexpected turn of events, [Grum](#grum) suddenly blinked or teleported away while [Lucy](#lucy) tried to charm him for more information about his origin. [Kuran](#kuran-ardoise) attempted to shoot him with his bow, but the arrow missed its mark.
 
 Despite the chaotic encounter, [Talia](#talia) expressed her gratitude, rewarding us for successfully stopping [Grum](#grum). She seemed pleased that we had managed to do so without harming the Brownies in the process.
 
@@ -548,11 +546,11 @@ As we hunkered down for the night, the thought of what the new dawn would bring 
 
 ### Haling Cliffs
 
-After a brief respite, our party decided to push on towards the town. We chose to stick to the cover of the woods for our approach, all except [Aleric](#aleric-mysticmind-stoneweaver) who preferred to follow the road. [D3PUTY](#d3puty) and I successfully scaled the cliff-side near the mine's opening, though [Kuran](#kuran) and [Lucy](#lucy) weren't as fortunate, their attempts ending in a tumble. As [Aleric](#aleric-mysticmind-stoneweaver) set off on his own, he employed [Lucy](#lucy)'s drift orb to light his way, prompting [Lucy](#lucy) to chase after him and join him on the road.
+After a brief respite, our party decided to push on towards the town. We chose to stick to the cover of the woods for our approach, all except [Aleric](#aleric-mysticmind-stoneweaver) who preferred to follow the road. [D3PUTY](#d3puty) and I successfully scaled the cliff-side near the mine's opening, though [Kuran](#kuran-ardoise) and [Lucy](#lucy) weren't as fortunate, their attempts ending in a tumble. As [Aleric](#aleric-mysticmind-stoneweaver) set off on his own, he employed [Lucy](#lucy)'s drift orb to light his way, prompting [Lucy](#lucy) to chase after him and join him on the road.
 
-Meanwhile, I tied a rope around [D3PUTY](#d3puty) and helped [Kuran](#kuran) up the cliff. Once reunited, we pressed on, under the cloak of the woods. [Aleric](#aleric-mysticmind-stoneweaver), now accompanied by [Lucy](#lucy), continued along the road, peering into the darkness of the forest but seeing little.
+Meanwhile, I tied a rope around [D3PUTY](#d3puty) and helped [Kuran](#kuran-ardoise) up the cliff. Once reunited, we pressed on, under the cloak of the woods. [Aleric](#aleric-mysticmind-stoneweaver), now accompanied by [Lucy](#lucy), continued along the road, peering into the darkness of the forest but seeing little.
 
-While moving through the heavy woods, [Kuran](#kuran) managed to discern the outline of a heavily overgrown guard tower in the forest. The tower, nearly consumed by creeping vines and interlacing branches, appeared to have several rooms formed within and around it, their windows glowing faintly with light.
+While moving through the heavy woods, [Kuran](#kuran-ardoise) managed to discern the outline of a heavily overgrown guard tower in the forest. The tower, nearly consumed by creeping vines and interlacing branches, appeared to have several rooms formed within and around it, their windows glowing faintly with light.
 
 <center><img src="_images/sylvan-tower.webp" width="75%">
 <figcaption><b>Sylvan Tower</b></figcaption>
@@ -568,7 +566,7 @@ As dusk cloaks the surrounding in a dim veil, [Aleric](#aleric-mysticmind-stonew
 
 Upon nearing the town, the sounds of his monologue are intersected by a voice echoing through the nightly stillness, originating from the outskirts of the town. The silhouette of a woman materializes, a hand on her hilt, her voice a blend of caution and intrigue. She is vigilant, questioning Aleric’s lone nocturnal roam. Aleric, weaving a tapestry of partial truths, tries to sway her suspicions but the strands of his story don’t interlace convincingly. He mentions Lucy’s sudden departure, but the woman’s eyes, bathed in skepticism, probe deeper. She is resolute, calling his bluff yet again. Eventually, Aleric peels off layers of deception, revealing partial truths about our party, careful not to divulge the core of our venture. The tense grip around her hilt loosens, a semblance of trust dawning in her demeanor. She introduces herself as Corrine, the sheriff of the town, whose authority seems to be wavering in these times. Corrine, a human appearing in her mid-30s, bears a roughened visage with a mohawk and an eye patch cloaking her right eye. Despite her badge and rugged appearance, she doesn’t seem fully armored.
 
-The scene transitions back to [Ash](#ash), [D3PUTY](#d3puty), and [Kuran](#kuran). Our inquiries about Belvin and Roberto find echoes in the Brownies’ tales. It appears they might have crossed paths with these individuals. However, the Brownies admit to avoiding the town, preferring the unseen paths when necessity drives them there. We leave the Brownies, our pockets lighter but our hearts warmed by their hospitality, and make our way to the town, hoping to reunite with Aleric and Lucy. 
+The scene transitions back to [Ash](#ash), [D3PUTY](#d3puty), and [Kuran](#kuran-ardoise). Our inquiries about Belvin and Roberto find echoes in the Brownies’ tales. It appears they might have crossed paths with these individuals. However, the Brownies admit to avoiding the town, preferring the unseen paths when necessity drives them there. We leave the Brownies, our pockets lighter but our hearts warmed by their hospitality, and make our way to the town, hoping to reunite with Aleric and Lucy. 
 
 Ash’s memory paints images of an inn/pub nestled amongst the downtown shops, a probable refuge for our separated companions. Our paths converge again in the town, the familiar faces of our comrades blending with the tapestry of the inn’s patrons—a handful of humans, a dwarf, and a half-elf, immersed in their own worlds. Our requests for rooms are met with nods from the barkeep, and we settle in, our minds a whirlpool of thoughts and plans.
 
@@ -610,7 +608,7 @@ For now, patience must be my ally.
 
 This morning, a palpable sense of unease hung over us as the majority of the adventurers awoke to find me missing. My absence was like a void, a silent alarm that something was amiss. [D3PUTY](#d3puty) descended the stairs to find [Matilda](#matilda) and another man behind the counter. Matilda suspected the [Nightwatch](#the-nightwatch) had taken Ash.
 
-[D3PUTY](#d3puty), [Kuran](#kuran), and [Aleric](#aleric-mysticmind-stoneweaver) promptly decided to venture to the docks in search of Ash. The fishmonger shops were closed, but men were already working the docks in the early light. D3PUTY scoured the area for signs of Ash, eventually discovering traces of a struggle and drag marks leading to a building adorned with the Nightwatch insignia.
+[D3PUTY](#d3puty), [Kuran](#kuran-ardoise), and [Aleric](#aleric-mysticmind-stoneweaver) promptly decided to venture to the docks in search of Ash. The fishmonger shops were closed, but men were already working the docks in the early light. D3PUTY scoured the area for signs of Ash, eventually discovering traces of a struggle and drag marks leading to a building adorned with the Nightwatch insignia.
 
 Kuran stealthily circled the building, peering through a window. Inside, he could see three officers and a cell in the corner — Ash was inside. Using a magic Sea Shell, Ash explained his ordeal: he was ambushed by the Nightwatch near the docks, bagged, dragged, and incarcerated.
 
@@ -652,7 +650,7 @@ Suddenly, a flurry of darts hissed through the air. One narrowly missed [Aleric]
 
 In the heat of the moment, D3PUTY skillfully cast his net, ensnaring one of the Sea Gloom. Aleric responded with a spell of Hideous Laughter, briefly disarming the attackers with uncontrollable mirth. The Sea Gloom, however, quickly regained their composure and lunged at D3PUTY with their spears, only to be thwarted by his sturdy armor.
 
-[Kuran](#kuran) leaped into action, rapier in hand, slicing into one of the Sea Gloom with precision. A quick follow-up with his dagger sent the creature slumping lifelessly into the water. Meanwhile, [Lucy](#lucy) unleashed an Eldritch Blast, obliterating another assailant. From the corner of her eye, she noticed something unsettling in the water – fish chum and a trail of bubbles rising to the surface.
+[Kuran](#kuran-ardoise) leaped into action, rapier in hand, slicing into one of the Sea Gloom with precision. A quick follow-up with his dagger sent the creature slumping lifelessly into the water. Meanwhile, [Lucy](#lucy) unleashed an Eldritch Blast, obliterating another assailant. From the corner of her eye, she noticed something unsettling in the water – fish chum and a trail of bubbles rising to the surface.
 
 In response, I conjured a guiding bolt, striking another Sea Gloom squarely, causing it to fall into the churning waters. Simultaneously, I cast a shield of faith around Kuran, enveloping him in a protective light.
 
@@ -666,7 +664,7 @@ The ensnared Sea Gloom, still trapped in D3PUTY's net, began to chant "chuul, ch
 
 Chaos erupted on the shores as a monstrous claw, resembling that of a colossal crab or lobster, broke through the water's surface. [Aleric](#aleric-mysticmind-stoneweaver), with a quick arcana check, identified the creature as a [Chuul](#chuul) - a gigantic, mythical crustacean known for its ferocity.
 
-[Kuran](#kuran), quick to react, loosed an arrow at the ensnared Sea Gloom, but his shot veered off target. Lucy, with unwavering focus, conjured another Eldritch Blast, aiming it squarely at the Chuul's claw. In response to the escalating threat, I hastily assembled a fairy ring of interwoven sticks, summoning a dome of protective twilight sanctuary around us.
+[Kuran](#kuran-ardoise), quick to react, loosed an arrow at the ensnared Sea Gloom, but his shot veered off target. Lucy, with unwavering focus, conjured another Eldritch Blast, aiming it squarely at the Chuul's claw. In response to the escalating threat, I hastily assembled a fairy ring of interwoven sticks, summoning a dome of protective twilight sanctuary around us.
 
 <center><img src="_images/ring-of-sticks.webp" width="75%">
 <figcaption><b>Conjuring the Twighlight Sanctuary</b></figcaption>
@@ -674,7 +672,7 @@ Chaos erupted on the shores as a monstrous claw, resembling that of a colossal c
 
 The Chuul, undeterred, advanced with terrifying ease through the water towards Aleric. With a swift and brutal assault, it struck him with its massive claws, leaving him unconscious and submerged in the water. In a desperate attempt to intervene, [D3PUTY](#d3puty) pointed his bow at the ensnared Sea Gloom, demanding it to call off the Chuul. The Sea Gloom, defiant and unyielding, egged on the Chuul with chants. D3PUTY, unfazed, aimed for the Chuul's eye and let loose an arrow, striking true.
 
-[Kuran](#kuran), undeterred by the creature's formidable armor, launched an attack but failed to inflict any damage. In a frantic effort to assist Aleric, he accidentally pushed Aleric's face into the water, exacerbating the situation. Meanwhile, the previously ensnared Sea Gloom broke free from the net, launching a fireball at D3PUTY that crashed onto the beach, failing to hit its target.
+[Kuran](#kuran-ardoise), undeterred by the creature's formidable armor, launched an attack but failed to inflict any damage. In a frantic effort to assist Aleric, he accidentally pushed Aleric's face into the water, exacerbating the situation. Meanwhile, the previously ensnared Sea Gloom broke free from the net, launching a fireball at D3PUTY that crashed onto the beach, failing to hit its target.
 
 [Lucy](#lucy), remembering her arsenal of magical items, swam towards the Chuul, clumsily dog-paddling. I rushed to Aleric's aid, placing a white and indigo mushroom (an [Amanita Lifeshroud](#amanita-lifeshroud)) in his mouth to stabilize him. D3PUTY continued to focus on the Chuul, searching for vulnerabilities in its armor.
 
@@ -684,30 +682,697 @@ I attempted to distract the Chuul with a mating call, but it seemed to have no e
 
 Our skirmish on the beach drew attention from the stone towers along the wall. A guard, missing a hand and sporting a claw in its place, waved down at us from his vantage point. It seemed our encounter had not gone unnoticed, and the eyes of [Haling Cove](#haling-cove) were now firmly upon us.
 
+## Chapter 9 - Belvin's Tower
+
+*Play Date: August 29, 2023*
+
+### Over The Wall
+
+In the wake of our harrowing encounter on the beach, I quickly used my [magic snail shell](#enchanted-snail-shell) to communicate with the guard high up in the tower. His urgent advice was clear: "Get off the beach; it's not safe down here." Relaying this message to the group, we wasted no time in scrambling towards the wall.
+
+The guard, whom we learned was named [Simon](#simon), promptly threw a rope ladder over the side for us. [Kuran](#kuran-ardoise), determined not to leave the laughing Sea Gloom behind, struggled to bring the incapacitated creature along as we ascended the wall.
+
+Once atop, I immediately recognized Simon's attire as that of the [Town Guard](#town-guard), the town's crest emblazoned on his chest. Simon shared troubling insights about the rift – it was growing, and peculiar creatures often emerged from it. He mentioned that a group of wizards had been researching the rift but had ceased their efforts after sustaining injuries.
+
+[Aleric](#aleric-mysticmind-stoneweaver), drawing upon his knowledge of rifts, suggested that such phenomena usually have a mechanism that keeps them contained, but something was amiss here, allowing this rift to expand unchecked. Intrigued, I inquired about the location of the wizards' research. Simon indicated that there was a locked-up laboratory in town, likely holding more answers. The keys, he believed, were with [Corrine](#sherif-corrine-forton), and [Roberto's](#roberto) body, one of the wizards, had been sent back to Candle Keep, a larger town.
+
+During our conversation, Simon questioned our affiliations, particularly inquiring if we were associated with the Fortons or [Baron Pinkwell](#baron-pinkwell). We clarified our independent status, affirming that we were free agents, beholden to no one.
+
+Simon seemed keen on us meeting Corrine and learning more. He led us to a house by the town's entrance, presumably to facilitate this meeting. As we moved away from the beach, the chaos of the morning hung heavily in the air, but our path forward was becoming increasingly clear – we needed to uncover the mysteries of the rift and understand its growing influence on Haling Cove.
+
+### Corrine's House
+
+```text
+* simon takes off his armor when he gets to the house, he seems comfortable there.
+* white mohawk ,eye patch over right eye.
+* we relay to her how we ended up on the beach.
+* simon tells her that we won over the chule.
+* sareen looks us over, but fixates on d3puty.
+* d3puty offers her services.
+* belvins layer
+* roberto was sent to candlekeep
+* belvin probably got murdered by pygmies.
+* we offer to close up the rift.
+* simon thinks it might be going to the plane of shadows. -- kind of like the fairies but the dark ones. not the upside down.
+* we rest and go to the lab.
+* kuran walks away with the pigme and check his pockets ,find some random trinkets.
+* kuran tries to intimidate the pigme.
+* the pigme is scared and yelling at kuran in a language he doesn't understand.
+* kuran comes back with a scared and pale lookign pigme.
+* simon guides us up on a road around town to a tower.
+* on hte way we see an abandoned camp. looks like there is some smithing equipment at the forge.
+```
+
+### The Tower Laboratory
+
+```text
+
+* the tower is taller than the trees
+* ash and aleric look around. there is noticable nasty green algy on all the rocks. and everythign around, but no visible signs of anyone coming or going from the tower. -- there appears to be at least 4 floors to the tower, with some sort of balcony up towards the top.
+* kuran named the pigme 'george' and tries to force him into the tower.
+* kuran pushes george through the doorway.
+* the impact from george kciks up quite a bit of dust.
+* as it settles we can see into the lab. there is a short set of stairs climbing up wards to the first floor.
+
+
+* we enter the lab
+* aleric holds up his dagger and makes it glow with light.
+* inside the tower is stairs and a desk.
+* ash goes and looks at the desk and sees a book or ledger. -- goods that have been purchased or services that were rendered, lose balance sheet.. there is another book that seems to be some sort of message book, short notes, jotted down, many pieces of paper may have been torn out and handed off to seomeone else.
+* ash does an arcanda check on the symbols on the floor - NAT - looking at the design on the floor - nothing suggests its some kind of magical rune, doing something to the tower itself - i do notice more closely that there are a fair number of symbols fro mthe fayewilde. the symbol itself suggests -- kind from someone who is actively investigating faye wild or fayewild itself.
+* aleric pages through the books on the table.
+* the message book has multiple notes about securing boats -- chartering vessels off the coast.
+* there are mentions of glass bottles.
+* mention of equipment for swimming.
+* hooks and rope, series of lenses, 
+* belvin was really curious about the comings and goings of hte port or water in the bay/harbor.
+* second floor, library
+* aleric finds a journal.
+
+Day 42 - picked up a faint ethereal energy signature from one of the tablets off the coast in the bay. It pulsed and thurmmed in time with the moon phases. Connection to the feywild cannot be ruled out.”
+
+Day 57 - got my first look at one of the tablets. the runes etched on it - strange. Old language, forgotten by most, echoes of fey perhaps. Most consult ancient texts.
+
+Day 68: Tablet showed a violent reaction to cold iron today. Same with previous tests involving Fey creatures. Must investigate further.
+
+Day 74: Unsettling dreams since working with the tablet. Whispers of unknown voices, calls from a distant realm? Must tread carefully.
+
+Day 81: Roberto might have been onto something. The spatial and temporal distortions near the tablets could indeed suggest a portal. But where does it lead?
+
+Day 117: Roberto was wrong. We shouldn't move these tablets. Must prevent any further attempts. Too dangerous, too unpredictable.
+
+Day 118: I’ve found the original position for this tablet; will scout tonight to see if we can get it there without the Saesha’sol stopping us.
+
+* ash looks at the sheets of paper strewn about to see what people were writing about before the left.
+* one of hte pieces of paper appears to be a letter being written to black staff tower -- a call to keep the tablets in haling cove and not try and relocate them. and not to send anyoen else to try and take them away -- retrieve them.
+* the dragon wanted us to find tablets.
+
+remembers something the mist dragon mentioned
+
+“Go to Haling Cove and find the artifacts. The fate of the Cloakwood, the Sea of Swords, and perhaps even Faerun itself hangs in the balance. I would do this task myself, but fear I would draw far too much attention to things that are best left quiet.
+
+“The presence of your Boggle suggests that the situation is worsening, and we can no longer simply watch."
+
+* we look around the room at hte shelves.
+* kuran looks over a set of bottles - they have strange materials in them, there are some acids
+* potions of transfishgeration
+* potions of water breathing
+* ash takes a potion of each
+* the third floor has a table and a door dividing the room. ash goes to open the door but it is locked.
+* kuran comes up to the third floor without george - george lays unoncious to the desk.
+* he tries to pick the lock - he disapears to the third floor.
+* we enter the room, the atmosphere changes instantly, the room looks new, not dusty.
+* the room has a more lived in fealing.
+* the most striking feature is a grand piano in the corner.
+* most of hte other furniture in the room is simple with magical para. on  them.
+* ash looks about at the magical stuff on the furniture.
+  * NAT in a drawer i find a similar drift globe, glass sphere, find an older wand that can be used as a focus, overwelciming strongest thing in the room, craziest fealing from the piano. -- or something near the piano.
+* aleric goes over to the piano and casts identify on the piano, eyes sinilating, shining.
+* aleric plays the piano but some of the keys do not eminate sound.
+* aleric gets closer and investigates the keys that don't work properly. the keys themselves are workign but the strings do not vibrate properly.
+* he relays to the group.
+* lucy rolls her eyes, lifts her hands, and eldridge blasts the piano the blast hits the piano '8' damage, the force topples the piano to its side and it slams into the back wall.
+* a huge thud on the inside of hte piano.
+* ash goes over and reaches inside the piano to readch for the thing that fell.
+* there is a large green stone tablet inside the piano.
+* ash wraps it in a cloth and lays it on a table.
+* aleric senses the power in the tablet is overwhelming. -- it bridges and touches the fabric of reality. it seems to be corsing with faye magics. this kind of tablet expects it to act like a stitch. used with other tablets to seal a rift.
+* the order and spacing of the tablets is critical to maintain the organization of the planes.
+* breakign down the tablet would be potent.
+* dj3puty finds a loose floor board with a hastily drawn map of the edge of the coast line with 6 markings on it. mostly off the coast, but one in the woods.
+```
+
+## Chapter 10
+
+*Play Date: September 5, 2023*
+
+```text
+* deputy takes the tablet.
+* go up to the top floor
+* well cared floor, no dust present.
+* aleric goes over to the telescope to look through it without moving it.
+* the large bronze telescope is pointed out to the beach, and the rift.
+* might be matching up to a location on the map that was found.
+* kuran joins us and inspects the contraption in the middle of the room.
+* doesn't see anything
+* aleric comes over and licks the geared mechanism in the room.
+* labels on the gears say fayewild, material ,earth, fire, air, water, shadowfell.
+* the mechanism doesnt look reputable to ash.
+* d3puty studies the thing while we all rest, he notices that the mechanism seems to model the planes and check the alignment.
+* kuran notices d3puties movement seems more fluid than normal, or has been. d3puty's face seems more expresive. 
+
+* kuran walks over the d3puty to see what is going on.
+* 'you look like a fresh cup of coffee'
+* d3puty looks down at himself. looks inward, and notices that he is more limber than he's used too. something feels more fluid.
+* d3puty checks if moving from the contraption affects this, but it doesn't.
+* kuran notices that a section d3puty's back has a soft green glow to it. kuran picks up a stick and prods d3puties back.
+* kuran opens his pack and notices that the tablet has a soft glow to it as well.
+* d3puty notes that the tablet might be causing it.
+* d3puty is holding it out in front him.
+* everyone else wakes up and d3puty relays the nights events. -- including the glow.
+* another set of eyes pop out of the side of deputies leg and look around at the other people in the room, and then pops back in.
+* 'thats new' thats not me' d3puty checks his leg.
+* aleric attempts to check on d3puty but is still tired.
+* d3puty looks down at his leg and determine that part of his leg has eyes, a tiny section of his own body has animated into another being that he can communicate with.
+* ash becomes curious of what effect it would have on himself.
+* lucy has a similar urget to the tablet. ash is nervous knowing this.
+* ash wraps the tablet in a heavy curtain adn hands it back to d3puty.
+* ash makes a second curtain cape and wraps it around d3puty to try and mask the glow
+
+
+* we desend the tower and go outside.
+* the pigme is awake but bound and towed by kuran.
+* ash asks the captain when the last time someone was in there. -- she relays its been at least 20 years.
+* we head down to the docks to try and charter a boat.
+* ash goes to hte monger to see if they have any chulle repelent. the persons name is 'maxwell'
+' i dont know of any chule repelent but as long as you arent using magic they wont bother you ' ... dont use magic fishing hooks, lines, etc.. no wind spells, get stuck out in the water -- they seem to pick up on magic pretty quick. they walk on the bottom, they dont swim on th surface. they can walk up on teh shore. thats about that.
+* alaric thinks we should use the transfishguration potion.
+* we gather on the docks.
+* we gather on two boats
+  * boat 1
+    * ash
+    * d3puty
+    * lucy
+  * boat 2
+    * alaric
+    * kuran 
+    * pigme
+* alaric gives everyone a potion of transfishguration.
+* we notice that the rift on the beach is substantially smaller than the last time we saw it.
+* aleric points us in the direction of the spot he saw through the telescope
+* waves are not particularly strong.
+* as we head to seaesh island we see it is lined with wooden spikes and garrisons.
+* as we approach the island there appears to be a sand bar.
+* everything seems calm on the surface, but when i look down into the water i see large claws, vaguely see some kidn of oversized crab creature that seems to be following our boat.
+* i point this out to d3puty and lucy, but we all decide to continue on,
+* there is a chule under the water following us.
+* we approach a mossy obsidian outcropping
+* alaric seems to think this may be for the tablets.
+* d3puty wants  to try and swim past chule
+* there is a section of the stone in the structure where there appears to be a tile missing.
+* ash uses clock on the little guy and he runs back to the docks away from our boats. with haste.
+* it runs away on the harbor floor with teh ctule running after it.
+
+```
+
+## Chapter 11
+
+*Play Date: September 12, 2023*
+
+```text
+*d3puty is going to head into the water to slot the tablet into the shrine.
+* lucy d3puty and kuran jump into the water.
+* as the tablet hits the water it glows bright through the cloth and algea and growth starts growing around it, currents start kiking up and water starts to churn and swirl. pushing teh boats away.
+* all the peeps in the water are starting to feel a warm fuzzy, almost electrical feeling.
+* animal life on the seafloor is awakening, crabs and shrimp are going crazy.
+* alaric looks down into the water and it seems there is some kind of bloom in the area, seen or unseen.
+* tablet seems to be using the water as a conduit, fae energy is just bleeding out into a large area. farther than it would reach normally.
+* d3puty aborts and heads back to the surface.
+* lucy uses magic to convince a crab to surface.
+* when everyone comes back to the surface they see alaric carassesing the pigme to try and calm it down. he felt bad it was stressed.
+ * d3puty resurfaces and tries to hold the ta blet out of the water. the creatures subside when he does that.
+* as water drips off the tablet it energizes the fish.
+* lucy is swimming in the chummy water, made from the entrails of the crab that was killed.
+* **ash gets +1 WIS, +1 nature -1 acrobatics**
+
+* lucy and kuran are swimming down to the site wehere the tablet goes.
+* they are looking for markings but arent seeing much
+* ash splits ghostly
+* alaric picks up the tablet to look closely. he can tell that the tablet has been charged with some very powerful fae and planer magics. the kind that you might use to try and reach across planes. has access to some of the raw fae energy from the fae wwild or the shadowfell. this probably was built this power ful because it is tgrying to hold the planes apart from each other.
+* identify: guessing that some of the sheer strength of the artifact anyoen that comes into contact with it is likely to have a temporary effect, especially if they are connected with water or some other teams. sufficient time in close proximity to the tablet, prolonged exposure may cause permanent changes. the fae energies perm. alter the the creatures around it.
+* the last bit, haziest bit: expecting that the sheer volume of share energy with a conduit like water is almost enchanting, or calls out to the creatures in the area.
+* alaric touches the tablet, 
+* ash parts the water with a choral staff left in the boat.
+* the boat descends to the oean floor, and sits on the floor.
+* aleric starts running with the tablet to the shrine.
+* a flash of green light eminates from the tablet as aleric slots the tablet in
+* a snap of sound rattles in the distance as its slotted in.
+* when the water
+
+* we go back to shore and from the distance it looks like the rift is gone.
+* but beyond that but kuran thinks something is going on by the docks.
+* over at the docks there is a little bit of outrite chaos going on, torches, yelling, multiple people running around, one of the boats there, the mast is toppled over, appears to be broken. the dock is sinking slightly
+* one or two chules are on the docks, attacking hte people, enganged and raging.
+
+```
+
+## Chapter 12
+
+*Play Date: September 26, 2023*
+
+> *I missed this session, needs notes from the group.*
+
+## Chapter 13
+
+*Play Date: October 10, 2023*
+
+```text
+
+* after an enormous brawl that lasted all of the 9/26 session.
+* the adventurers were told not to leave town. they had to stay in the inn or jail. but they decided to stay in the tower.
+* while everyone was asleep, d3puty awoke and notied aleric being taken down the tower. kidnapped.
+    
+SUMMON FEYYYYYY
+
+* d3puty was trying to wake everyone up to alert them that aleric was leaving.
+* d3puty sneaks after them and tries to grapple the people steeling aleric.,
+* we all come clamoring down.
+* one of the cloaked figures is trying to shove d3puty off of the other cloaked figure.
+* ash dashes after the cloaked figure (Ilyana) taking aleric, one floor down from d3puty.
+* d3puty attempts to kick the cloaked figure he is grappling down the stairs.
+* cloaked figure seems to be a dwarf, some kind of rogue or thief type -- ruffian? Someone who you would normally expect to be more dexterous.
+* d3puty can tell he has a rapier and a dagger but neither are drawn.
+* d3puty boots him down the stairs. (Borin)
+* Borin is going to try and shuv ash, but ash avoids it.
+* kuran runs down stairs after the rest of us.
+* lucy wakes up and eldridge blasts the vace that the pygmy is laying against to try and intimidate him.
+* one of the figures goes through aleric's pockets and shes going to run towards a window.
+* ash casts moonbeam on the window nad runs outside.
+* d3puty attacks ilyana with a long bow.
+* d3puty runs into the moonbeam and takes damage.
+* borin tries to shove d3puty out the window.
+* d3puty goes flying out the window.
+* borin takes moonbeam damage
+* d3puty takes damage from falling.
+* Kuran takes borrin out.
+* lucy comes down the stairs. hands on fire, does burning hands on the dudes. dealing significant damage ot the one in the window. his cloaks engulfs in flames.
+* the centaur runs to the window into the moon beam, is engulfed in white searing flames.
+* the centaur attacks d3puty. and hits with hoof
+* ilyana crumples in the window and slumps to the ground.
+* the centaur catches her.
+* ash casts guiding bolt at the centaur
+* moonbeam hits d3puty again.
+* d3puty attempts to grapple the centaur.
+* kuran runs to the window, engulfed in the moonbeam.
+* kuran shoots the centaur in the face iwth his bow. he crumples to the grround
+* ash runs over to see what was taken from aleric.
+* kuran searches borin and finds rapier, shortbow, dagger, leather armor, another hidden dager, thieves tools, crow bar, pouch, 10 gold.
+* ash checks the other figure and finds mace, light crossbow, shield, scale male, crow bar, 15 gold. she has the map that we found in the tower that had the six markigns on it.
+* ash takes the gold and the map.
+* ash summons fey to stop the fleeing pygmy.
+* d3puty does an investigation to see where they are from.
+* ash attempts to figure out where they came from by sniffing its hooves but fails.
+* we all short rest.
+```
+## Chapter 14
+
+*Play Date: October 17, 2023*
+
+```
+didnt play
+```
+
+## Chapter 15
+
+*Play Date: October 24, 2023*
+
+```text
+
+
+* hour before dawn
+* three dead bodies - they look like they were members of the nightwatch.
+* jimmy the water boy is a new character, hes definately not walking byu the tower.
+* kuran chops up the bodies and they are stuffed in them.
+* we then bring the barrels to the waters edge.
+* the rift is completely gone on the beach.
+* there are some pygmies along the edge of the water waiting. they seem troubled.
+* the pigmie's look disturbed.
+* ash speaks out to them in sylvan
+* the pigme replies in broken sylvan ... i am lirash.
+* what sort of evil creatures are in this barels.
+* liarsh walks out to the water and waves at the otehr sacia sol that are further out.
+* they seem to not react and seem to watch what he is doindg.
+* he dips his hand into the water and pulls up a handful of sand which glows softly and then turns into a golden orb, 
+* ash stairs int othe lglow
+* druid graft, cantrip level spell for predicing the weather.
+* ash takes it and looks at lirash
+* the whipsper told us al lthe ways of the magic in the world.
+* Maelthorn, the Whisper in the Shadows
+* aleric knows this is a diety of the shadowfell.
+* swiling mass of dark mist with glowing violet eyes
+* presence with hushed whispers that are impossible to decern.
+* generally considered melevolent fey spirit
+* pigme bursts into laughter and we tie him up and bring him to town.
+* the other fpigmes see all this.
+* we go to the inn and run into the otehr people who are gathering.
+* they hold their town council in teh church, adn we are headed to teh church (16 on the map).
+* member of the glergy and priest in the front of the building
+* trio up talking with them. some other random people around. a few passing guards. at least one recognized from the wall. also notice an older looking centaurs, a little idfferent looking than the centaur we saw this morning. more glamorouisly dressed.
+* the three members in the front seem to be here to talk to us.
+* they becon to walk forward.
+* we see commander of the nightwatch
+* billybob thorton
+* peter thrampton
+* want to know what we are doing at belvin tower.
+* the towns people found the small robot from deputy.
+* we are not in trouble, offer to help rebuilding the dockks
+* approach 9ft centuar holding the pigme.
+* miron the leader of the shadowglow clan who has long been allies of the town and when they have councils he tries to be present to he can know the goings on in the town.
+* glare into the centaurs eyes and 
+* alaric tries to determine qhis menor.
+* coloring looks different then the one that was stuffed in the barrel.
+* he doesn't seem interested in us.
+* he points at deputy and says jake might be able to help him with his small persojn.
+* jake is another jyrewalker creation, construct.
+*  walk out and help on the docks.
+* looooong rest.
+```
+
+## Chapter 16
+
+*Play Date: November 7, 2023*
+
+```text
+* agreed to help work on the docks and repair them
+* building for the past month and a half.
+* the sounds and lights of the town are vibrant, the community is hard at work. everyone is pitching in to help rebuild the docks.
+* what is a port town without a port.
+* nails have gone missing ,boards split, some stones that have been laid under water have been shoved away.
+* things have been slowing down our progress.
+* bodies have washed ashore. threw the town into a frenzy.
+* lucy has been performing necromantic experiments on the bodies that washed ashore.
+* there have been lights on in Belvin's tower. Investigated the nonsense of the docks
+* we go and knock on the door of the tower, there is no answer
+* the door is locked.
+* ash is thrown up through the window by d3puty. ash goes down and unlocks the door.
+* something or someone has gone through the tower, things have been moved and cleaned.
+* no one is there right now.
+* d3puty goes up and notices that someone had picked through the piano pieces.
+* Alaric has only noticed lights on at the tower at night time. -- wonder if someone is being more covert about what they are doing there.
+* Alaric finds a nightwatch jacket sitting on a chair that wasn't there last time.
+* we are going to stay in the tower and set traps for whomever  is coming here at night.
+* ash and lucy are outside hiding.
+* ash sees 3-4 people coming in a group, no torches, cloaked. 
+* as they get closer, one of them might be familiar, but none of them are carying any source of light.
+* ash calls up to alaric on via the seashell casting sending.
+* the cloaked figures go inside, they hear alaric creaking upstairs.
+* lucy bangs on the door, the door opens, a torch gets lit downstairs, someone is going to answer the door, but the bulk of the people are moving up the stairs and into the study area.
+* Alaric goes and tries to hide.
+* the man answering the door knows Lucy -- 'your'e no traveler, you're one of the group'
+* Lucy tries to convince him to barracade the door.
+* 'the magic lady from the out of towners is down here.
+* Lucy attempts to baracade the door. -- they are not stopping Lucy.
+* They are all wearing nightwatch emblems.
+* Now why would you be here, at this time of night, this tower.
+* Lucy attempts to run up the stairs.
+* the guards grab Lucy. ties her up.
+* i start climbing up the outside of the tower to look into the first floor window.
+* alaric tries to take control of the situation and calm the party down.
+* lucy tells the guards that she's high on mushrooms and a dragon sent her.
+* the guards are attempting to take lucy and alaric away, ash casts sleep on the group.
+* guard is trying to clear out the doorway.
+* a few guards are moving up the stairs towards d3puty.
+```
+
+## Chapter 17
+
+*Play Date: November 14, 2023*
+
+```text
+
+* D3PUTY is going to try and push the barrel down the stairs at the cloaked figures.
+* The barrel hits one of the cloaked Nightwatch figures.
+* The Nightwatch is commanding us out of the tower.
+* The Nightwatch is trying to secure the tablets.
+* Ash casts Calm EMotions on them to calm the situation, we offer to leave and they let us.
+* Madzia says to get the tablets.
+* Ash waves at them that we need to go.
+* Ash signals at Kuran and he falls down the stairs.
+* We all rush to leave the tower before the spell runs out.
+* "Commander Madzia of the Nightwatch"
+* He was there on jail night and one of the three people on the town council.
+* We go back to our house in town for the night.
+* I bar the dore, afraid of the Nightwatch visiting due to the charm wearing off on the folks in the tower.
+* The next morning we go down to the beach to check out point on the beach.
+* On the way we stop at a bagel place.
+* The Kneaded Knot - we pick up some bagels.
+* We head down to the beach, wave at the people at the docks.
+* They are still cranking along, putting in more moorings, underwater rock movement.
+* As we go down the beach towards where the rift was. We felt like the rift was there.
+* There are some groups of sasha soul gathering around the rift, as we get closer we realize it is not the rift. We see crow feathres, bits of seaweed, black stones, coal and ash that have been left on the beach in the shape of the rift. Large black silloute of where the rift was.
+* We ask Tom Lirash what is going on with the rift. Lirash wants to know if he can talk to the other sashasoul.
+* "You come with me? We go?" He talks to Lucy.
+* Lirash talks to the sashasoul, they mourn the rift, this is a grave for the rift. 
+* They did not open the rift.
+* Lucy is trying to lure Lirash into being a Fiend follower.
+* "Maelthorn"
+  * Not a top tier pantheon god
+  * Some sort of diety or spirit
+  * He is typically associated with feelings of despare, fading memories, etc.
+  * when you have no one else to turn to. Maelthorn.
+* Man say there be a way.
+* Umbrel says he can re-open the portal, we just need ot help him. Some man says he can help.
+* The man is cloaked.
+* The man is coming to the island often lately, relatively new to the island but is coming more and more.
+* ```1: prison
+2: honeypit
+3: guard shack
+4: prison guard shack
+4: pearl dam
+5: statue of thrombus
+6: night watch HQ
+7: docks
+8: mass grave
+9: abandoned camp
+10: old hunters camp
+11: gloom island
+12: ???
+13:  rift
+14: honey well
+15: graveyard
+16: church
+17: ????
+[cant find 17 may not exist (incompetence not mystery)]
+18: belvin's lab
+19: fortin residence
+20: ???
+21: ????
+22: ???
+23: ???
+24: ???
+25: ???
+26: old camp (tools and such)
+27: town shops
+28: collapsed bridge
+29: sandbar
+30: ship
+31: corrine's house
+32: brownie tower
+33 : thrampton family home
+34 our house```
+```
+
+
+
+## Chapter 18
+
+*Play Date: November 21, 2023*
+
+```text
+* we want to set a trap for the person that may be opening the portal, or at least promising to open the portal.
+* we are going to split up, two on each end.
+* ash gives kuran his snail shell.
+* there are some old ruins in the tunnel (we saw them last time) older ruins that someone recognized the ruins as similar to where we placed the tablet, but there is no visible spot to put a tablet.
+* kuran is going to attempt to hide.
+* we see a figure up in the trees, they see us and scatter off -- they are wearing a cloak or hood -- covering their face so they couldn't be easily recognized.
+* the persons runs off, we chase them up the cliff, i stumble as i try to go up the cliff.
+* kuran runs back after calling us on the snail shell.
+* aleric shoots a fireball at the figure.
+* d3puty shoots an arrow at the figure.
+* they both hit the figure.
+* the figure runs off wounded.
+* ash gives guidance to kuran and kuran checks for tracks or blood.
+* daylight is starting to fade, we find more droplets in the direction of town.
+* ash takes the snail shell back from kuran.
+* we split up 
+* ash talks to a woman walking by and she saw the man walking to the center of town. -- she quickens are step and walks away.
+* d3puty notices that a pair of guards that are wearing nightwatch attire that are walking around the edge of town and one of them points to us.
+* d3puty smiles and thumbs up
+* they walk over.
+* aleric and ash watch from a distance on the hill.
+* 'you guys are uner arrest under the authority of the nightwatch -- can you come with us'.
+* 'we might not be the sherrif but we do keep the town safe -- it is in your best interest to come with us.'
+* kuran flicks his cig. 'you'll need to talk to my lawyer'.
+* kuran tells the guards his names are John and Tim.
+* D3puty mistakenly corrects them. 
+* kuran asks for the badge to prove they are nightwatch.
+* they argue back and forth some.
+* kuran takes the badge from the nightwatch 'i am the nightwatch now, you're under arrest'.
+* d3puty is complying, kuran is trying to run away. the guard attacks kuran but he runs away.
+* the guards are going to tie d3puty's hands. d3puty talks them out of it.
+* ash books it to corrin's house using the magical bronze timepiece
+* simon opens the door. we chit chat and simon offers some duke grey.
+* corrin comes back -- i explain to her with some deception. 
+* aleric scene:
+    * you need to come with us --  no - do we need to use force.
+    * aleric casts color spray at the guards.
+    * one of the guards is blinded by the color spray. the other guard is going to draw a weapon on aleric.
+    * the blinded guard is trying to grab aleric. -- the guard lunges and misses.
+    * aleric casts hideous laughter on the second guard. it doesn't seem to effect the guard.
+    * the other guard swings a dagger at aleric and misses, he takes a second swing and hits aleric.
+    * the first guard, no longer blinded, grapples aleric.
+    * aleric agrees to be taken in. -- they take him back to the nightwatch headquarters.
+    
+* scene switches to the nightwatch
+    * as they get closer to the nightwatch, more guards gather around.
+    * there seems to be more than usual -- a good croud around.
+    * they usher them into a cell there.
+    * they are there for a short while before someone comes out.
+    * commander mediza addresses the two in the cell: says: you've been in my town long enough that i know you've been causing trouble, i know you know about the tablets, i suspect you've handled them. i know you know where one is now. - i suspect it has something to do with the tower, but i don't have proof of this. i DO KNOW that my men reported you were there last night and didn't have a good explination on why you were there. all i'm asking for is for you to tell me where a dangerous powerful artifact that belongs in our town is.
+    * not until you tell us what your intention with the tablet is.
+    * aleric tries to intimidate the commander.
+    * i want the tablets to be brought back here, and kept safe. somewhere they can be stored safely.
+    * aleric doesn't have a clear stance on what commander mediza wants or knows.
+    * the guards take aleric up to the jail cell.
+
+* ash talks with corrin, they dont trust mediza.
+* hes been there for a long time. - we dont' know where he came from.
+* ash is thinking about eating the map.
+* corrin goes to talk with the nightwatch.
+* ash is hanging out with Simon.
+* ash asks simon what happened to his hand.
+    * intricate mechanical claw replacing his left hand.
+    * he replies lost it to a chuul after a grusum encounter with one he lost his hand and while it was healing he transitioned from working the docks to helping corrin until he was gifted a new hand by the gyrewalkers in town.
+    * they left behind their workshop in town. they had a hand in creating jake.
+```
+
+
 
 ---
 
 # People and Places
 
+## Candle Keep
+
+*Population: Unkown*
+
+*I do not know much about Candle Keep at this time - Ash*
+
 ---
 
 ## The Cloakwood
 
+*Population: Unknown*
+
+<div id="container">
+
 ### Alarin
+
+<div id="first" style="width:30%; float:left; padding-right:20px;">
+<center>
+<img src="_images/missing.png" width="100%">
+</center></div>
+<div id="second" style="width:70%; float:left;">
+
+A young brownie from [The Cloakwood](#the-cloakwood)
+
+**Race:** Fae, **Class:** Unknown
+
+</div><div id="clear" style="clear: both;"></div></div>
+
+<div id="container">
 
 ### The Brownies
 
+<div id="first" style="width:30%; float:left; padding-right:20px;">
+<center>
+<img src="_images/missing.png" width="100%">
+</center></div>
+<div id="second" style="width:70%; float:left;">
+
+Fae of the Cloakwood and [Willdale](#willdale)
+
+**Race:** Fae, **Class:** Unknown
+
+</div><div id="clear" style="clear: both;"></div></div>
+
+<div id="container">
+
 ### Fudh
+
+<div id="first" style="width:30%; float:left; padding-right:20px;">
+<center>
+<img src="_images/fudh.jpg" width="100%">
+</center></div>
+<div id="second" style="width:70%; float:left;">
+
+Fae of the Cloakwood. Loves his red hat.
+
+**Race:** Fae, **Class:** Unknown
+
+</div><div id="clear" style="clear: both;"></div></div>
+
+<div id="container">
 
 ### Goim
 
+<div id="first" style="width:30%; float:left; padding-right:20px;">
+<center>
+<img src="_images/goim.jpg" width="100%">
+</center></div>
+<div id="second" style="width:70%; float:left;">
+
+Fae of the Cloakwood. Loves his red hat.
+
+**Race:** Fae, **Class:** Unknown
+
+</div><div id="clear" style="clear: both;"></div></div>
+
+<div id="container">
+
 ### Grum
+
+<div id="first" style="width:30%; float:left; padding-right:20px;">
+<center>
+<img src="_images/grum.jpg" width="100%">
+</center></div>
+<div id="second" style="width:70%; float:left;">
+
+The 'Leader' of hte Brownies in the Cloakwood
+
+**Race:** Boggle, **Class:** Unknown
+
+</div><div id="clear" style="clear: both;"></div></div>
 
 ---
 
 ## Haling Cove
 
+*Population: Unknown*
+
+<div id="container">
+
+### Baron Pinkwell
+
+<div id="first" style="width:30%; float:left; padding-right:20px;">
+<center>
+<img src="_images/missing.png" width="100%">
+</center></div>
+<div id="second" style="width:70%; float:left;">
+
+*Ash does not know much about the Baron.*
+
+**Race:** Unknown, **Class:** Unknown
+
+</div><div id="clear" style="clear: both;"></div></div>
+
+<div id="container">
+
 ### Belvin
+
+<div id="first" style="width:30%; float:left; padding-right:20px;">
+<center>
+<img src="_images/missing.png" width="100%">
+</center></div>
+<div id="second" style="width:70%; float:left;">
+
+*Ash does not know much about Belvin.*
+
+* Belvin is a Wizard that is known to have investigated the tablets in Haling Cove.
+
+**Race:** Unknown, **Class:** Unknown
+
+</div><div id="clear" style="clear: both;"></div></div>
 
 ### Chuul
 
@@ -715,9 +1380,22 @@ Large lobster-like aberation with a hatred for surface-dwelling humanoids. The m
 
 A horrible mix of crustacean, insect, and serpent.
 
+
+<div id="container">
+
 ### Sherif Corrine Forton
 
+<div id="first" style="width:30%; float:left; padding-right:20px;">
+<center>
+<img src="_images/missing.png" width="100%">
+</center></div>
+<div id="second" style="width:70%; float:left;">
+
 Corrine Forton is the sherif of Haling Cove. She seems to have some sort of contempt for the [Nightwatch](#the-nightwatch)
+
+**Race:** Human, **Class:** Unknown
+
+</div><div id="clear" style="clear: both;"></div></div>
 
 ### Gyrewalkers
 
@@ -745,6 +1423,10 @@ Also known as the *Sea Gloom*.
 
 Clan of bioluminescent centaurs. Generally friendly. Our party approached some while initially traveling to Haling cove.
 
+### Simon
+
+A wall guardsman. Stationed overlooking the beaches in [Haling Cove](#haling-cove). Knows [Corrine](#sherif-corrine-forton).
+
 ### Sylvan Sentinels
 
 My home clan. My family were all part of the Sylvan Sentinels. Watching over the woods around Haling Cove. I never joined their ranks.
@@ -753,13 +1435,21 @@ My home clan. My family were all part of the Sylvan Sentinels. Watching over the
 
 Friend of [Commander Roy Medeza](#commander-roy-medeza).
 
+### Town Guard
+
+The Town Guard of [Haling Cove](#haling-cove). They stand watch on the wall surrounding and protecting the town.
+
 ---
 
 ## Sea of Swords
 
+*Population: Unknown*
+
 ---
 
 ## Willdale
+
+*Population: ~200*
 
 <center>
 <img src="_images/willdale.png" width="75%">
@@ -794,6 +1484,8 @@ I have written this guide to help provide some insight to my small collection of
 
 ---
 
+<div id="container">
+
 ## Amanita Lifeshroud
 
 <div id="first" style="width:30%; float:left; padding-right:20px;">
@@ -827,36 +1519,34 @@ The presence of Amanita Lifeshrouds in an area is believed to be a sign of a pro
 
 ---
 
-
-
 <div id="container">
 
-## Somnuscap
+## Necrocap Deathspore
 
 <div id="first" style="width:30%; float:left; padding-right:20px;">
 <center>
 </br>
-<img src="_images/mushroom-somnuscap.webp" width="100%">
+<img src="_images/mushroom-necro.webp" width="100%">
 </center></div>
 <div id="second" style="width:70%; float:left;">
 
-**Habitat:** Enchanted Forests, Moonlit Clearings
+**Habitat:** Cursed Lands, Dark Swamps
 
-**Identification:** The Somnuscap is a rare and mystical mushroom, easily identifiable by its iridescent azure cap, which glimmers like a star-studded night sky. The cap's glow is particularly noticeable under moonlight, making it a beacon in the dark forest. Its stem is gossamer-thin and translucent, often rendering it almost invisible against the forest floor.
+**Identification:** The Necrocap Deathspore is a formidable and dangerous mushroom, typically found in areas tainted by dark magic or corruption, such as cursed lands and gloomy swamps. It is characterized by its dark, almost black cap, which has a rough, pockmarked surface resembling decaying flesh. The cap often emits a faint, ominous mist. Its stem is thick and gnarled, covered in a mottled pattern of grey and deep green, giving it a corpse-like appearance.
 
-**Effects and Uses:** The most remarkable feature of the Somnuscap is its defense mechanism. When disturbed, it releases a cloud of fine spores. These spores have the magical ability to induce a deep, dream-filled sleep in any creature that inhales them. This sleep is not only profound but also restorative, often accompanied by vivid, sometimes prophetic dreams.
+**Effects and Uses:** The Necrocap Deathspore is infamous for its lethal properties. The mushroom contains potent necrotic toxins that can cause severe damage upon physical contact. Touching the Necrocap Deathspore without proper protection can result in necrotic lesions, where the flesh begins to wither and decay rapidly. The toxins are so virulent that they can cause severe, irreversible tissue damage, and in extreme cases, death.
 
-The Somnuscap can be a double-edged sword for adventurers. While the induced sleep can provide much-needed rest and recovery, it can also incapacitate a party, leaving them vulnerable to danger. Unwary travelers who inhale a large concentration of spores might find themselves trapped in slumber for extended periods, ranging from days to years in rare cases.
+The Necrocap Deathspore is a perilous hazard for adventurers. It is often found in areas of dark magic and can be used by nefarious characters as a component in deadly poisons or dark rituals.
 
-**Harvesting and Alchemical Use:** Harvesting Somnuscap spores is a task for skilled individuals, often requiring knowledge in both botany and magic. The best time to harvest is during the mushroom's dormant phase at dawn, when the release of spores is at its lowest. Alchemists and herbalists value these spores for their unique properties. In controlled, minute quantities, they are an essential ingredient in crafting potent sleeping potions or remedies for those afflicted with relentless nightmares.
+**Harvesting and Alchemical Use:** Harvesting a Necrocap Deathspore is extremely risky and is typically only attempted by those well-versed in handling deadly substances or by practitioners of dark magic. The mushroom's necrotic properties make it a component in crafting potent necrotic poisons or curses.
 
-* **Encounter:** When disturbing Somnuscap, one must succeed on a *Constitution* saving throw or fall into a magical sleep for a duration.
-* **Harvesting:** Requires a successful *Nature* check. A higher rol yields more spores, which an be used or sold.
-* **Potion Crafting:** Fabrication of sleep potions from a solution of the spores may require a successful *Arcana* or *Alechemy* check.
+* Encounter: Touching a Necrocap Deathspore without protection requires a Constitution saving throw. Failure results in necrotic damage, with severity based on the Dungeon Master's discretion.
+* Harvesting: Requires a successful Nature check with specific protective measures. Failure can result in immediate necrotic damage to the harvester.
+* Potion Crafting: Used in creating necrotic poisons or dark magical concoctions, requiring a successful Alchemy or Arcana check.
 
-**Folklore and Cultural Significance:** The Somnuscap is often intertwined with tales of Morpheus, the deity of dreams. It is seen as a bridge between the waking world and the dream realm, embodying the thin veil that separates reality from fantasy. To many in this world, the Somnuscap is a symbol of nature's enigmatic power and the hidden magic that lies in the ancient forests.
+**Folklore and Cultural Significance:** In the lore of many D&D realms, the Necrocap Deathspore is often associated with deities or entities of death, decay, and corruption. It is feared and avoided in most cultures, seen as an omen of death or a manifestation of cursed land. Dark mages and necromancers, however, might seek it for its potent necrotic properties.
 
-Adventurers who understand the Somnuscap's properties can use it to their advantage, but they must always respect its potent and unpredictable nature.
+The presence of Necrocap Deathspores in an area is usually a sign of deep corruption or an imbalance in the natural order. Their existence is a stark reminder of the destructive power of nature when influenced by dark forces and the thin line between life and death.
 
 </div>
 <div id="clear" style="clear: both;"></div>
@@ -901,6 +1591,42 @@ The presence of Pyroshroom Blazeboles in an area is a sign of strong elemental f
 
 ---
 
+
+<div id="container">
+
+## Somnuscap
+
+<div id="first" style="width:30%; float:left; padding-right:20px;">
+<center>
+</br>
+<img src="_images/mushroom-somnuscap.webp" width="100%">
+</center></div>
+<div id="second" style="width:70%; float:left;">
+
+**Habitat:** Enchanted Forests, Moonlit Clearings
+
+**Identification:** The Somnuscap is a rare and mystical mushroom, easily identifiable by its iridescent azure cap, which glimmers like a star-studded night sky. The cap's glow is particularly noticeable under moonlight, making it a beacon in the dark forest. Its stem is gossamer-thin and translucent, often rendering it almost invisible against the forest floor.
+
+**Effects and Uses:** The most remarkable feature of the Somnuscap is its defense mechanism. When disturbed, it releases a cloud of fine spores. These spores have the magical ability to induce a deep, dream-filled sleep in any creature that inhales them. This sleep is not only profound but also restorative, often accompanied by vivid, sometimes prophetic dreams.
+
+The Somnuscap can be a double-edged sword for adventurers. While the induced sleep can provide much-needed rest and recovery, it can also incapacitate a party, leaving them vulnerable to danger. Unwary travelers who inhale a large concentration of spores might find themselves trapped in slumber for extended periods, ranging from days to years in rare cases.
+
+**Harvesting and Alchemical Use:** Harvesting Somnuscap spores is a task for skilled individuals, often requiring knowledge in both botany and magic. The best time to harvest is during the mushroom's dormant phase at dawn, when the release of spores is at its lowest. Alchemists and herbalists value these spores for their unique properties. In controlled, minute quantities, they are an essential ingredient in crafting potent sleeping potions or remedies for those afflicted with relentless nightmares.
+
+* **Encounter:** When disturbing Somnuscap, one must succeed on a *Constitution* saving throw or fall into a magical sleep for a duration.
+* **Harvesting:** Requires a successful *Nature* check. A higher rol yields more spores, which an be used or sold.
+* **Potion Crafting:** Fabrication of sleep potions from a solution of the spores may require a successful *Arcana* or *Alechemy* check.
+
+**Folklore and Cultural Significance:** The Somnuscap is often intertwined with tales of Morpheus, the deity of dreams. It is seen as a bridge between the waking world and the dream realm, embodying the thin veil that separates reality from fantasy. To many in this world, the Somnuscap is a symbol of nature's enigmatic power and the hidden magic that lies in the ancient forests.
+
+Adventurers who understand the Somnuscap's properties can use it to their advantage, but they must always respect its potent and unpredictable nature.
+
+</div>
+<div id="clear" style="clear: both;"></div>
+</div>
+
+---
+
 <div id="container">
 
 ## Wispspore Lumicap
@@ -935,5 +1661,3 @@ The presence of Wispspore Lumicaps in an area is believed to be a sign of a deep
 </div>
 <div id="clear" style="clear: both;"></div>
 </div>
-
-# Spell Book
