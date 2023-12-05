@@ -694,34 +694,51 @@ The guard, whom we learned was named [Simon](#simon), promptly threw a rope ladd
 
 Once atop, I immediately recognized Simon's attire as that of the [Town Guard](#town-guard), the town's crest emblazoned on his chest. Simon shared troubling insights about the rift – it was growing, and peculiar creatures often emerged from it. He mentioned that a group of wizards had been researching the rift but had ceased their efforts after sustaining injuries.
 
-[Aleric](#aleric-mysticmind-stoneweaver), drawing upon his knowledge of rifts, suggested that such phenomena usually have a mechanism that keeps them contained, but something was amiss here, allowing this rift to expand unchecked. Intrigued, I inquired about the location of the wizards' research. Simon indicated that there was a locked-up laboratory in town, likely holding more answers. The keys, he believed, were with [Corrine](#sherif-corrine-forton), and [Roberto's](#roberto) body, one of the wizards, had been sent back to Candle Keep, a larger town.
+[Aleric](#aleric-mysticmind-stoneweaver), drawing upon his knowledge of rifts, suggested that such phenomena usually have a mechanism that keeps them contained, but something was amiss here, allowing this rift to expand unchecked. Intrigued, I inquired about the location of the wizards' research. Simon indicated that there was a locked-up laboratory in town, likely holding more answers. The keys, he believed, were with [Corrine](#sheriff-corrine-orton), and [Roberto's](#roberto) body, one of the wizards, had been sent back to Candle Keep, a larger town.
 
 During our conversation, Simon questioned our affiliations, particularly inquiring if we were associated with the Fortons or [Baron Pinkwell](#baron-pinkwell). We clarified our independent status, affirming that we were free agents, beholden to no one.
 
 Simon seemed keen on us meeting Corrine and learning more. He led us to a house by the town's entrance, presumably to facilitate this meeting. As we moved away from the beach, the chaos of the morning hung heavily in the air, but our path forward was becoming increasingly clear – we needed to uncover the mysteries of the rift and understand its growing influence on Haling Cove.
 
 ### Corrine's House
-
+<!-->
 ```text
-* simon takes off his armor when he gets to the house, he seems comfortable there.
-* white mohawk ,eye patch over right eye.
-* we relay to her how we ended up on the beach.
-* simon tells her that we won over the chule.
-* sareen looks us over, but fixates on d3puty.
+* simon takes off his armor when he gets to the house (corrine's house), he seems comfortable there.
+* corrine greets us, white mohawk ,eye patch over right eye.
+* we relay to her how we ended up on the beach. the same story we told simon.
+* simon tells her that we won over the chuul.
+* corrine looks us over, but fixates on d3puty.
 * d3puty offers her services.
-* belvins layer
-* roberto was sent to candlekeep
-* belvin probably got murdered by pygmies.
+* we ask her about Belvin and Roberto
+* she tells us belvins tower is in town.
+* roberto is dead, his body was sent to candlekeep
+* belvin probably got murdered by pygmy's.
 * we offer to close up the rift.
-* simon thinks it might be going to the plane of shadows. -- kind of like the fairies but the dark ones. not the upside down.
-* we rest and go to the lab.
-* kuran walks away with the pigme and check his pockets ,find some random trinkets.
-* kuran tries to intimidate the pigme.
-* the pigme is scared and yelling at kuran in a language he doesn't understand.
-* kuran comes back with a scared and pale lookign pigme.
+* simon thinks the rift might be going to the plane of shadows, also known as shadowfell
+* we rest and go to the tower.
+* kuran leaves the party as we go to the tower, with the pygmy he captured.
+* kuran tries to intimidate the pygme.
+* the pygmy is scared and yelling at kuran in a language he doesn't understand.
+* kuran comes back to the group with a scared and pale looging pygmy.
 * simon guides us up on a road around town to a tower.
-* on hte way we see an abandoned camp. looks like there is some smithing equipment at the forge.
-```
+* on the way we see an abandoned camp. looks like there is some smithing equipment at the forge.
+```-->
+
+Upon arriving at [Corrine](#sheriff-corrine-forton)'s house, [Simon](#simon) seemed to ease into a more comfortable state, shedding his Town Guard armor at the doorstep. [Corrine](#sheriff-corrine-forton) greeted us, her appearance striking with a white mohawk and an eye patch over her right eye.
+
+We recounted our encounter at the beach, echoing the story we had previously shared with [Simon](#simon). He chimed in, confirming our tale and emphasizing our unlikely victory over the Chuul. [Corrine](#sheriff-corrine-forton)'s gaze, sharp and assessing, lingered on [D3PUTY](#d3puty) with a particular interest. Ever ready to lend a hand, [D3PUTY](#d3puty) promptly offered her our collective services.
+
+Our conversation quickly turned to the subjects of [Belvin](#belvin) and [Roberto](#roberto). [Corrine](#sheriff-corrine-forton) informed us that Belvin's tower was still standing within the town. Roberto, she revealed, was dead, and his body had been sent to [Candle Keep](#candle-keep). The likelihood of Belvin having fallen to the Pygmies' hands seemed high in her estimation.
+
+Feeling a sense of duty, and the mission we had been sent on, we offered to assist in dealing with the ominous rift. [Simon](#simon) speculated that the rift might be a portal to the [Plane of Shadows](#shadowfell), or [Shadowfell](#shadowfell), a dark mirror to our own world.
+
+After a brief respite, we prepared to venture towards the tower. As we set out, [Kuran](#kuran) momentarily broke away from the group, taking the captured [Pygmy](#lirash) with him. His attempt to intimidate the Pygmy seemed to invoke sheer terror, with the creature responding in a language none of us understood.
+
+[Kuran](#kuran) rejoined us shortly, the [Pygmy](#lirash) in tow, now visibly shaken and pale. [Simon](#simon) then led us through the town towards the tower. En route, we stumbled upon an abandoned camp. The remnants of smithing equipment at the forge suggested a sudden or mysterious departure. The campsite, like so much in Haling Cove, seemed steeped in hidden tales and forgotten endeavors.
+
+The tower awaited us, possibly holding the key to understanding more about the rift and its growing influence. As we navigated the town's winding roads, I couldn't help but feel the weight of history and secrets buried in the very stones of Haling Cove.
+
+---
 
 ### The Tower Laboratory
 
@@ -1383,7 +1400,7 @@ A horrible mix of crustacean, insect, and serpent.
 
 <div id="container">
 
-### Sherif Corrine Forton
+### Sheriff Corrine Forton
 
 <div id="first" style="width:30%; float:left; padding-right:20px;">
 <center>
@@ -1391,7 +1408,7 @@ A horrible mix of crustacean, insect, and serpent.
 </center></div>
 <div id="second" style="width:70%; float:left;">
 
-Corrine Forton is the sherif of Haling Cove. She seems to have some sort of contempt for the [Nightwatch](#the-nightwatch)
+Corrine Forton is the sheriff of Haling Cove. She seems to have some sort of contempt for the [Nightwatch](#the-nightwatch)
 
 **Race:** Human, **Class:** Unknown
 
@@ -1400,6 +1417,20 @@ Corrine Forton is the sherif of Haling Cove. She seems to have some sort of cont
 ### Gyrewalkers
 
 A nomadic group known for their advanced technology. They once lived in a tower in Haling Cove.
+
+### Lirash
+
+<div id="first" style="width:30%; float:left; padding-right:20px;">
+<center>
+<img src="_images/missing.png" width="100%">
+</center></div>
+<div id="second" style="width:70%; float:left;">
+
+Information
+
+**Race:** Sæsha'sol, **Class:** Unknown
+
+</div><div id="clear" style="clear: both;"></div></div>
 
 ### Matilda
 
@@ -1425,7 +1456,7 @@ Clan of bioluminescent centaurs. Generally friendly. Our party approached some w
 
 ### Simon
 
-A wall guardsman. Stationed overlooking the beaches in [Haling Cove](#haling-cove). Knows [Corrine](#sherif-corrine-forton).
+A wall guardsman. Stationed overlooking the beaches in [Haling Cove](#haling-cove). Knows [Corrine](#sheriff-corrine-forton).
 
 ### Sylvan Sentinels
 
